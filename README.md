@@ -6,7 +6,7 @@ A list of all the scale and offset parameters for each raster dataset in Google 
 
 The list of scale and offset parameters for each raster dataset ([check the list here](https://github.com/davemlz/ee-catalog-scale-offset-params/blob/main/ee-catalog-scale-offset-parameters.json)) is presented in the `ee-catalog-scale-offset-parameters.json` file. This list will be be used by the [eemont Python package](https://github.com/davemlz/eemont) for the `.scale()` method in `ee.Image` and `ee.ImageCollection` extensions.
 
-### Structure
+## Structure
 
 The structure of the list follows this standard:
 
@@ -43,7 +43,7 @@ Check the full list of scale and offset parameters [here](https://github.com/dav
 You can download or clone the repository:
 
 ```
-git clone https://github.com/davemlz/awesome-ee-spectral-indices.git
+git clone https://github.com/davemlz/ee-catalog-scale-offset-params.git
 ```
 
 Or you can download the single file here (right-click > Save link as...):
