@@ -99,6 +99,12 @@
             "scale": 1.0
         }
     },
+    "BIOPAMA/GlobalOilPalm/v1": {
+        "classification": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "CAS/IGSNRR/PML/V2": {
         "ET_water": {
             "offset": 0.0,
