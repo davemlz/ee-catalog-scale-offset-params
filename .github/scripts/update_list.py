@@ -27,5 +27,5 @@ for dataset in eeCatalog['links']:
                             bandsDict[name] = {'scale':scale, 'offset':offset}
                         eeDict[dataset['id']] = bandsDict
 # Save the list as a json file
-with open('./ee-catalog-scale-offset-parameters.json','w') as fp:
+with open('./list/ee-catalog-scale-offset-parameters.json','w') as fp:
     json.dump(eeDict, fp, indent = 4, sort_keys = True)

@@ -1,10 +1,12 @@
 # List of Scale and Offset parameters of the GEE Catalog
 
+[![update_list](https://github.com/davemlz/ee-catalog-scale-offset-params/actions/workflows/update_list.yml/badge.svg)](https://github.com/davemlz/ee-catalog-scale-offset-params/actions/workflows/update_list.yml)
+
 A list of all the scale and offset parameters for each raster dataset in Google Earth Engine.
 
 ## Scale and Offset Parameters
 
-The list of scale and offset parameters for each raster dataset ([check the list here](https://github.com/davemlz/ee-catalog-scale-offset-params/blob/main/ee-catalog-scale-offset-parameters.json)) is presented in the `ee-catalog-scale-offset-parameters.json` file. This list will be be used by the [eemont Python package](https://github.com/davemlz/eemont) for the `.scale()` method in `ee.Image` and `ee.ImageCollection` extensions.
+The list of scale and offset parameters for each raster dataset ([check the list here](https://github.com/davemlz/ee-catalog-scale-offset-params/blob/main/list/ee-catalog-scale-offset-parameters.json)) is presented in the `ee-catalog-scale-offset-parameters.json` file. This list will be be used by the [eemont Python package](https://github.com/davemlz/eemont) for the `.scale()` method in `ee.Image` and `ee.ImageCollection` extensions.
 
 ## Structure
 
@@ -36,7 +38,7 @@ If a raster dataset doesn't have bands in the `eo:bands` attribute, the dataset 
 
 ## List
 
-Check the full list of scale and offset parameters [here](https://github.com/davemlz/ee-catalog-scale-offset-params/blob/main/ee-catalog-scale-offset-parameters.json).
+Check the full list of scale and offset parameters [here](https://github.com/davemlz/ee-catalog-scale-offset-params/blob/main/list/ee-catalog-scale-offset-parameters.json).
 
 ## Download Raw Files
 
@@ -48,7 +50,7 @@ git clone https://github.com/davemlz/ee-catalog-scale-offset-params.git
 
 Or you can download the single file here (right-click > Save link as...):
 
-- json file: [Raw list](https://raw.githubusercontent.com/davemlz/ee-catalog-scale-offset-params/main/ee-catalog-scale-offset-parameters.json).
+- json file: [Raw list](https://raw.githubusercontent.com/davemlz/ee-catalog-scale-offset-params/main/list/ee-catalog-scale-offset-parameters.json).
 
 ## Updates
 
