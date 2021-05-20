@@ -6055,6 +6055,72 @@
             "scale": 1.0
         }
     },
+    "JRC/GSW1_3/GlobalSurfaceWater": {
+        "change_abs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "change_norm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "max_extent": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "occurrence": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "recurrence": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "seasonality": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "transition": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "JRC/GSW1_3/Metadata": {
+        "detections": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_obs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "valid_obs": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "JRC/GSW1_3/MonthlyHistory": {
+        "water": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "JRC/GSW1_3/MonthlyRecurrence": {
+        "has_observations": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "monthly_recurrence": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "JRC/GSW1_3/YearlyHistory": {
+        "waterClass": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "KNTU/LiDARLab/IranLandCover/V1": {
         "classification": {
             "offset": 0.0,
