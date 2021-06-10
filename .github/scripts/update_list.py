@@ -10,8 +10,8 @@ for dataset in eeCatalog['links']:
         if response.status_code == 200:
             dataset = requests.get(dataset['href']).json()
             if dataset['gee:type'] in ['image','image_collection']:
-                if 'eo:bands' in list(dataset['properties'].keys()):
-                    bands = dataset['properties']['eo:bands']
+                if 'eo:bands' in list(dataset['summaries'].keys()):
+                    bands = dataset['summaries']['eo:bands']
                     if len(bands) > 0:
                         bandsDict = dict()
                         for band in bands:
