@@ -6704,7 +6704,7 @@
         },
         "ST_ATRAN": {
             "offset": 0.0,
-            "scale": 1e-05
+            "scale": 0.0001
         },
         "ST_B10": {
             "offset": 149.0,
