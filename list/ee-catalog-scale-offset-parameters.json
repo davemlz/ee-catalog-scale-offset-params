@@ -3993,6 +3993,28 @@
             "scale": 1.0
         }
     },
+    "GLOBAL_FLOOD_DB/MODIS_EVENTS/V1_0": {
+        "clear_perc": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "clear_views": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "flood_duration": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "flooded": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "jrc_perm_water": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "GRIDMET/DROUGHT": {
         "eddi14d": {
             "offset": 0.0,
