@@ -6693,32 +6693,32 @@
             "scale": 1.0
         },
         "SR_B1": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B2": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B3": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B4": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B5": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B6": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B7": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_QA_AEROSOL": {
             "offset": 0.0,
@@ -7377,28 +7377,28 @@
             "scale": 0.001
         },
         "SR_B1": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B2": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B3": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B4": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B5": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_B7": {
-            "offset": 0.0,
-            "scale": 1.0
+            "offset": -0.2,
+            "scale": 2.75e-05
         },
         "SR_CLOUD_QA": {
             "offset": 0.0,
