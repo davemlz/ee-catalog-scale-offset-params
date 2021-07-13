@@ -6257,6 +6257,24 @@
             "scale": 1.0
         }
     },
+    "LANDSAT/GLS1975_MOSAIC": {
+        "10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "40": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/GLS2005": {
         "10": {
             "offset": 0.0,
