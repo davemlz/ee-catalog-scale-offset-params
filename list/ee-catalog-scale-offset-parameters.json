@@ -3993,7 +3993,7 @@
             "scale": 1.0
         }
     },
-    "GLOBAL_FLOOD_DB/MODIS_EVENTS/V1_0": {
+    "GLOBAL_FLOOD_DB/MODIS_EVENTS/V1": {
         "clear_perc": {
             "offset": 0.0,
             "scale": 1.0
