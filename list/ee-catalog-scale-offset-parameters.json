@@ -12073,6 +12073,126 @@
             "scale": 0.01
         }
     },
+    "MODIS/MCD43A4_006_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_006_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_006_NDSI": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_006_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_006_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_NDSI": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MCD43A4_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_006_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_006_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_006_NDSI": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_006_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_006_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_NDSI": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MOD09GA_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/MOD10A1": {
         "Fractional_Snow_Cover": {
             "offset": 0.0,
@@ -12097,6 +12217,66 @@
             "scale": 1.0
         },
         "water_mask_qa": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_006_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_006_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_006_NDSI": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_006_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_006_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_NDSI": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/MYD09GA_NDWI": {
+        "NDWI": {
             "offset": 0.0,
             "scale": 1.0
         }
