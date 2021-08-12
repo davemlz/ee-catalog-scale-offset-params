@@ -405,6 +405,28 @@
             "scale": 1.0
         }
     },
+    "COPERNICUS/S1_GRD": {
+        "HH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "COPERNICUS/S2": {
         "B1": {
             "offset": 0.0,
