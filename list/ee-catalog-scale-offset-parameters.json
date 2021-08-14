@@ -18717,6 +18717,16 @@
             "scale": 1.0
         }
     },
+    "TERN/AET/CMRSET_LANDSAT_V2_1": {
+        "ETa": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pixel_qa": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "TOMS/MERGED": {
         "ozone": {
             "offset": 0.0,
