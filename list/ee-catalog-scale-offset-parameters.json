@@ -5960,11 +5960,11 @@
         }
     },
     "ISDASOIL/Africa/v1/texture_class": {
-        "mean_0_20": {
+        "texture_0_20": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "mean_20_50": {
+        "texture_20_50": {
             "offset": 0.0,
             "scale": 1.0
         }
