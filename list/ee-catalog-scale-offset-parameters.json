@@ -7673,6 +7673,84 @@
             "scale": 0.001
         }
     },
+    "LANDSAT/LC08/C02/T2_L2": {
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SR_B1": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B2": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B3": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B4": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B5": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B6": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B7": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_QA_AEROSOL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ST_ATRAN": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_B10": {
+            "offset": 149.0,
+            "scale": 0.00341802
+        },
+        "ST_CDIST": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_DRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_EMIS": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_EMSD": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_QA": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_TRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_URAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        }
+    },
     "LANDSAT/LC8": {
         "B1": {
             "offset": 0.0,
@@ -8982,6 +9060,84 @@
         }
     },
     "LANDSAT/LE07/C02/T1_L2": {
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SR_ATMOS_OPACITY": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "SR_B1": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B2": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B3": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B4": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B5": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B7": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_CLOUD_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ST_ATRAN": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_B6": {
+            "offset": 149.0,
+            "scale": 0.00341802
+        },
+        "ST_CDIST": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_DRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_EMIS": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_EMSD": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_QA": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_TRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_URAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        }
+    },
+    "LANDSAT/LE07/C02/T2_L2": {
         "QA_PIXEL": {
             "offset": 0.0,
             "scale": 1.0
@@ -10857,6 +11013,84 @@
             "scale": 0.001
         }
     },
+    "LANDSAT/LT04/C02/T2_L2": {
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SR_ATMOS_OPACITY": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "SR_B1": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B2": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B3": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B4": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B5": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B7": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_CLOUD_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ST_ATRAN": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_B6": {
+            "offset": 149.0,
+            "scale": 0.00341802
+        },
+        "ST_CDIST": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_DRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_EMIS": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_EMSD": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_QA": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_TRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_URAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        }
+    },
     "LANDSAT/LT05/C01/T1": {
         "B1": {
             "offset": 0.0,
@@ -11436,6 +11670,84 @@
         }
     },
     "LANDSAT/LT05/C02/T1_L2": {
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SR_ATMOS_OPACITY": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "SR_B1": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B2": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B3": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B4": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B5": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B7": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_CLOUD_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ST_ATRAN": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_B6": {
+            "offset": 149.0,
+            "scale": 0.00341802
+        },
+        "ST_CDIST": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_DRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_EMIS": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_EMSD": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_QA": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_TRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_URAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        }
+    },
+    "LANDSAT/LT05/C02/T2_L2": {
         "QA_PIXEL": {
             "offset": 0.0,
             "scale": 1.0
@@ -21235,6 +21547,60 @@
             "scale": 1.0
         },
         "Nighttime": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/planet-nicfi/assets/basemaps/africa": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/planet-nicfi/assets/basemaps/americas": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/planet-nicfi/assets/basemaps/asia": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
             "offset": 0.0,
             "scale": 1.0
         }
