@@ -19549,6 +19549,12 @@
             "scale": 0.0001
         }
     },
+    "Tsinghua/DESS/ChinaTerraceMap/v1": {
+        "terrace": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "Tsinghua/FROM-GLC/GAIA/v10": {
         "change_year_index": {
             "offset": 0.0,
