@@ -20329,6 +20329,12 @@
             "scale": 1.0
         }
     },
+    "USGS/3DEP/10m": {
+        "elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USGS/GAP/AK/2001": {
         "landcover": {
             "offset": 0.0,
