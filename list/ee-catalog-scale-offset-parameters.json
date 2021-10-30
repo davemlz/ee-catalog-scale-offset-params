@@ -5,6 +5,20 @@
             "scale": 1.0
         }
     },
+    "ACA/reef_habitat/v1_0": {
+        "benthic": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "geomorphic": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reef_mask": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "AHN/AHN2_05M_INT": {
         "elevation": {
             "offset": 0.0,
