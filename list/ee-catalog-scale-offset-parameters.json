@@ -21586,55 +21586,55 @@
     "projects/planet-nicfi/assets/basemaps/africa": {
         "B": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "G": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "NIR": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "R": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         }
     },
     "projects/planet-nicfi/assets/basemaps/americas": {
         "B": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "G": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "NIR": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "R": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         }
     },
     "projects/planet-nicfi/assets/basemaps/asia": {
         "B": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "G": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "NIR": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         },
         "R": {
             "offset": 0.0,
-            "scale": 1.0
+            "scale": 10000.0
         }
     }
 }
