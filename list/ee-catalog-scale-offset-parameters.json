@@ -19459,6 +19459,20 @@
             "scale": 1.0
         }
     },
+    "SNU/ESL/BESS/Rad/v1": {
+        "PAR_Daily": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PARdiff_Daily": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RSDN_Daily": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "TERN/AET/CMRSET_LANDSAT_V2_1": {
         "ETa": {
             "offset": 0.0,
