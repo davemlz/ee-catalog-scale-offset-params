@@ -7699,6 +7699,106 @@
             "scale": 0.001
         }
     },
+    "LANDSAT/LC08/C02/T1_RT_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/LC08/C02/T1_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/LC08/C02/T2_L2": {
         "QA_PIXEL": {
             "offset": 0.0,
@@ -7775,6 +7875,56 @@
         "ST_URAD": {
             "offset": 0.0,
             "scale": 0.001
+        }
+    },
+    "LANDSAT/LC08/C02/T2_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "LANDSAT/LC8": {
@@ -9163,6 +9313,90 @@
             "scale": 0.001
         }
     },
+    "LANDSAT/LE07/C02/T1_RT_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6_VCID_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6_VCID_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/LE07/C02/T1_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6_VCID_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6_VCID_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/LE07/C02/T2_L2": {
         "QA_PIXEL": {
             "offset": 0.0,
@@ -9239,6 +9473,48 @@
         "ST_URAD": {
             "offset": 0.0,
             "scale": 0.001
+        }
+    },
+    "LANDSAT/LE07/C02/T2_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6_VCID_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6_VCID_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "LANDSAT/LE7": {
@@ -11773,6 +12049,40 @@
             "scale": 0.001
         }
     },
+    "LANDSAT/LT05/C02/T1_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/LT05/C02/T2_L2": {
         "QA_PIXEL": {
             "offset": 0.0,
@@ -11849,6 +12159,40 @@
         "ST_URAD": {
             "offset": 0.0,
             "scale": 0.001
+        }
+    },
+    "LANDSAT/LT05/C02/T2_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BQA": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "LANDSAT/LT08/C01/T2": {
