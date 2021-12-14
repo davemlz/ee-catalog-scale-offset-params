@@ -6147,6 +6147,16 @@
             "scale": 1.0
         }
     },
+    "JAXA/GCOM-C/L3/LAND/LAI/V3": {
+        "LAI_AVE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LAI_QA_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JAXA/GCOM-C/L3/LAND/LST/V1": {
         "LST_AVE": {
             "offset": 0.0,
@@ -6158,6 +6168,16 @@
         }
     },
     "JAXA/GCOM-C/L3/LAND/LST/V2": {
+        "LST_AVE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LST_QA_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "JAXA/GCOM-C/L3/LAND/LST/V3": {
         "LST_AVE": {
             "offset": 0.0,
             "scale": 1.0
@@ -6187,6 +6207,16 @@
             "scale": 1.0
         }
     },
+    "JAXA/GCOM-C/L3/OCEAN/CHLA/V3": {
+        "CHLA_AVE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CHLA_QA_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JAXA/GCOM-C/L3/OCEAN/SST/V1": {
         "SST_AVE": {
             "offset": 0.0,
@@ -6198,6 +6228,16 @@
         }
     },
     "JAXA/GCOM-C/L3/OCEAN/SST/V2": {
+        "SST_AVE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SST_QA_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "JAXA/GCOM-C/L3/OCEAN/SST/V3": {
         "SST_AVE": {
             "offset": 0.0,
             "scale": 1.0
