@@ -4177,323 +4177,323 @@
     },
     "HYCOM/GLBu0_08/sea_temp_salinity": {
         "salinity_0": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_10": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_100": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_1000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_12": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_125": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_1250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_15": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_150": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_1500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_2": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_20": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_200": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_2000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_25": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_2500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_30": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_300": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_3000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_35": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_350": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_4": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_40": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_400": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_4000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_45": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_50": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_5000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_6": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_60": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_600": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_70": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_700": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_8": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_80": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_800": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_90": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_900": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_0": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_10": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_100": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_1000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_12": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_125": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_1250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_15": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_150": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_1500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_2": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_20": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_200": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_2000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_25": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_2500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_30": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_300": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_3000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_35": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_350": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_4": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_40": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_400": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_4000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_45": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_50": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_5000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_6": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_60": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_600": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_70": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_700": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_8": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_80": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_800": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_90": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_900": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         }
     },
@@ -4827,323 +4827,323 @@
     },
     "HYCOM/sea_temp_salinity": {
         "salinity_0": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_10": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_100": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_1000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_12": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_125": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_1250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_15": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_150": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_1500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_2": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_20": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_200": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_2000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_25": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_2500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_30": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_300": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_3000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_35": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_350": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_4": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_40": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_400": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_4000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_45": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_50": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_5000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_6": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_60": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_600": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_70": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_700": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_8": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_80": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_800": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_90": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "salinity_900": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_0": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_10": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_100": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_1000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_12": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_125": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_1250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_15": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_150": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_1500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_2": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_20": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_200": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_2000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_25": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_250": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_2500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_30": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_300": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_3000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_35": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_350": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_4": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_40": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_400": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_4000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_45": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_50": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_500": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_5000": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_6": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_60": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_600": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_70": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_700": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_8": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_80": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_800": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_90": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         },
         "water_temp_900": {
-            "offset": 20.0,
+            "offset": 20,
             "scale": 0.001
         }
     },
@@ -7707,7 +7707,7 @@
             "scale": 0.0001
         },
         "ST_B10": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -7885,7 +7885,7 @@
             "scale": 0.0001
         },
         "ST_B10": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -9321,7 +9321,7 @@
             "scale": 0.0001
         },
         "ST_B6": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -9483,7 +9483,7 @@
             "scale": 0.0001
         },
         "ST_B6": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -11323,7 +11323,7 @@
             "scale": 0.0001
         },
         "ST_B6": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -11401,7 +11401,7 @@
             "scale": 0.0001
         },
         "ST_B6": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -12057,7 +12057,7 @@
             "scale": 0.0001
         },
         "ST_B6": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -12169,7 +12169,7 @@
             "scale": 0.0001
         },
         "ST_B6": {
-            "offset": 149.0,
+            "offset": 149,
             "scale": 0.00341802
         },
         "ST_CDIST": {
@@ -14092,7 +14092,7 @@
         },
         "Range": {
             "offset": 0.0,
-            "scale": 25.0
+            "scale": 25
         },
         "SensorAzimuth": {
             "offset": 0.0,
@@ -14275,7 +14275,7 @@
             "scale": 0.0005
         },
         "Day_view_angle": {
-            "offset": -65.0,
+            "offset": -65,
             "scale": 1.0
         },
         "Day_view_time": {
@@ -14299,7 +14299,7 @@
             "scale": 0.02
         },
         "Night_view_angle": {
-            "offset": -65.0,
+            "offset": -65,
             "scale": 1.0
         },
         "Night_view_time": {
@@ -14325,8 +14325,8 @@
             "scale": 1.0
         },
         "Day_view_angl": {
-            "offset": -65.0,
-            "scale": 1.0
+            "offset": -65,
+            "scale": 1
         },
         "Day_view_time": {
             "offset": 0.0,
@@ -14349,8 +14349,8 @@
             "scale": 0.02
         },
         "Night_view_angl": {
-            "offset": -65.0,
-            "scale": 1.0
+            "offset": -65,
+            "scale": 1
         },
         "Night_view_time": {
             "offset": 0.0,
@@ -14580,7 +14580,7 @@
         },
         "LE": {
             "offset": 0.0,
-            "scale": 10000.0
+            "scale": 10000
         },
         "PET": {
             "offset": 0.0,
@@ -14588,7 +14588,7 @@
         },
         "PLE": {
             "offset": 0.0,
-            "scale": 10000.0
+            "scale": 10000
         }
     },
     "MODIS/006/MOD17A2H": {
@@ -14826,7 +14826,7 @@
         },
         "Range": {
             "offset": 0.0,
-            "scale": 25.0
+            "scale": 25
         },
         "SensorAzimuth": {
             "offset": 0.0,
@@ -15009,7 +15009,7 @@
             "scale": 0.0005
         },
         "Day_view_angle": {
-            "offset": -65.0,
+            "offset": -65,
             "scale": 1.0
         },
         "Day_view_time": {
@@ -15033,7 +15033,7 @@
             "scale": 0.02
         },
         "Night_view_angle": {
-            "offset": -65.0,
+            "offset": -65,
             "scale": 1.0
         },
         "Night_view_time": {
@@ -15059,8 +15059,8 @@
             "scale": 1.0
         },
         "Day_view_angl": {
-            "offset": -65.0,
-            "scale": 1.0
+            "offset": -65,
+            "scale": 1
         },
         "Day_view_time": {
             "offset": 0.0,
@@ -15083,8 +15083,8 @@
             "scale": 0.02
         },
         "Night_view_angl": {
-            "offset": -65.0,
-            "scale": 1.0
+            "offset": -65,
+            "scale": 1
         },
         "Night_view_time": {
             "offset": 0.0,
@@ -16993,27 +16993,27 @@
     },
     "NOAA/CDR/GRIDSAT-B1/V2": {
         "irwin_2": {
-            "offset": 200.0,
+            "offset": 200,
             "scale": 0.01
         },
         "irwin_3": {
-            "offset": 200.0,
+            "offset": 200,
             "scale": 0.01
         },
         "irwin_cdr": {
-            "offset": 200.0,
+            "offset": 200,
             "scale": 0.01
         },
         "irwin_vza_adj": {
-            "offset": -10.0,
+            "offset": -10,
             "scale": 0.25
         },
         "irwvp": {
-            "offset": 200.0,
+            "offset": 200,
             "scale": 0.01
         },
         "irwvp_2": {
-            "offset": 200.0,
+            "offset": 200,
             "scale": 0.01
         },
         "satid_ir1": {
@@ -17045,11 +17045,11 @@
             "scale": 1.0
         },
         "vschn": {
-            "offset": 1.0,
+            "offset": 1,
             "scale": 4e-05
         },
         "vschn_2": {
-            "offset": 1.0,
+            "offset": 1,
             "scale": 4e-05
         }
     },
@@ -17121,11 +17121,11 @@
             "scale": 0.003937008
         },
         "cld_height_acha": {
-            "offset": 10.0,
+            "offset": 10,
             "scale": 0.0003051851
         },
         "cld_height_uncer_acha": {
-            "offset": 5.0,
+            "offset": 5,
             "scale": 0.03937008
         },
         "cld_opd_acha": {
@@ -17141,23 +17141,23 @@
             "scale": 0.002444532
         },
         "cld_press_acha": {
-            "offset": 550.0,
+            "offset": 550,
             "scale": 0.01678518
         },
         "cld_reff_acha": {
-            "offset": 80.0,
+            "offset": 80,
             "scale": 0.6299213
         },
         "cld_reff_dcomp": {
-            "offset": 80.0,
+            "offset": 80,
             "scale": 0.002441481
         },
         "cld_reff_dcomp_unc": {
-            "offset": 80.0,
+            "offset": 80,
             "scale": 0.002441481
         },
         "cld_temp_acha": {
-            "offset": 240.0,
+            "offset": 240,
             "scale": 0.002441481
         },
         "cloud_fraction": {
@@ -17185,7 +17185,7 @@
             "scale": 1.0
         },
         "cloud_water_path": {
-            "offset": 600.0,
+            "offset": 600,
             "scale": 4.72441
         },
         "dcomp_info": {
@@ -17205,7 +17205,7 @@
             "scale": 1.0
         },
         "refl_0_65um": {
-            "offset": 59.0,
+            "offset": 59,
             "scale": 0.001861629
         },
         "refl_0_65um_counts": {
@@ -17213,11 +17213,11 @@
             "scale": 1.0
         },
         "refl_0_65um_stddev_3x3": {
-            "offset": 10.0,
+            "offset": 10,
             "scale": 0.07874016
         },
         "refl_0_86um": {
-            "offset": 59.0,
+            "offset": 59,
             "scale": 0.001861629
         },
         "refl_0_86um_counts": {
@@ -17225,7 +17225,7 @@
             "scale": 1.0
         },
         "refl_1_60um": {
-            "offset": 59.0,
+            "offset": 59,
             "scale": 0.001861629
         },
         "refl_1_60um_counts": {
@@ -17233,11 +17233,11 @@
             "scale": 1.0
         },
         "refl_3_75um": {
-            "offset": 30.0,
+            "offset": 30,
             "scale": 0.001525925
         },
         "relative_azimuth_angle": {
-            "offset": 90.0,
+            "offset": 90,
             "scale": 0.7086614
         },
         "scan_element_number": {
@@ -17253,7 +17253,7 @@
             "scale": 1.0
         },
         "sensor_zenith_angle": {
-            "offset": 45.0,
+            "offset": 45,
             "scale": 0.3543307
         },
         "snow_class": {
@@ -17265,11 +17265,11 @@
             "scale": 1.417323
         },
         "solar_zenith_angle": {
-            "offset": 90.0,
+            "offset": 90,
             "scale": 0.7086614
         },
         "surface_temperature_retrieved": {
-            "offset": 280.0,
+            "offset": 280,
             "scale": 0.472441
         },
         "surface_type": {
@@ -17277,11 +17277,11 @@
             "scale": 1.0
         },
         "temp_11_0um": {
-            "offset": 260.0,
+            "offset": 260,
             "scale": 0.002441481
         },
         "temp_11_0um_clear_sky": {
-            "offset": 260.0,
+            "offset": 260,
             "scale": 0.002441481
         },
         "temp_11_0um_stddev_3x3": {
@@ -17289,11 +17289,11 @@
             "scale": 0.07874016
         },
         "temp_12_0um": {
-            "offset": 260.0,
+            "offset": 260,
             "scale": 0.002441481
         },
         "temp_3_75um": {
-            "offset": 260.0,
+            "offset": 260,
             "scale": 0.002441481
         }
     },
@@ -17877,7 +17877,7 @@
     },
     "NOAA/GOES/16/FDCC": {
         "Area": {
-            "offset": 4000.0,
+            "offset": 4000,
             "scale": 60.98
         },
         "DQF": {
@@ -17893,13 +17893,13 @@
             "scale": 1.0
         },
         "Temp": {
-            "offset": 400.0,
+            "offset": 400,
             "scale": 0.05493667
         }
     },
     "NOAA/GOES/16/FDCF": {
         "Area": {
-            "offset": 4000.0,
+            "offset": 4000,
             "scale": 60.98
         },
         "DQF": {
@@ -17915,7 +17915,7 @@
             "scale": 1.0
         },
         "Temp": {
-            "offset": 400.0,
+            "offset": 400,
             "scale": 0.05493667
         }
     },
@@ -18311,7 +18311,7 @@
     },
     "NOAA/GOES/17/FDCC": {
         "Area": {
-            "offset": 4000.0,
+            "offset": 4000,
             "scale": 60.98
         },
         "DQF": {
@@ -18327,13 +18327,13 @@
             "scale": 1.0
         },
         "Temp": {
-            "offset": 400.0,
+            "offset": 400,
             "scale": 0.05493667
         }
     },
     "NOAA/GOES/17/FDCF": {
         "Area": {
-            "offset": 4000.0,
+            "offset": 4000,
             "scale": 60.98
         },
         "DQF": {
@@ -18349,7 +18349,7 @@
             "scale": 1.0
         },
         "Temp": {
-            "offset": 400.0,
+            "offset": 400,
             "scale": 0.05493667
         }
     },
@@ -19458,27 +19458,27 @@
     "OpenLandMap/SOL/SOL_BULKDENS-FINEEARTH_USDA-4A1H_M/v02": {
         "b0": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b10": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b100": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b200": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b30": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b60": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         }
     },
     "OpenLandMap/SOL/SOL_CLAY-WFRACTION_USDA-3A1A1A_M/v02": {
@@ -19522,53 +19522,53 @@
     "OpenLandMap/SOL/SOL_ORGANIC-CARBON_USDA-6A1C_M/v02": {
         "b0": {
             "offset": 0.0,
-            "scale": 5.0
+            "scale": 5
         },
         "b10": {
             "offset": 0.0,
-            "scale": 5.0
+            "scale": 5
         },
         "b100": {
             "offset": 0.0,
-            "scale": 5.0
+            "scale": 5
         },
         "b200": {
             "offset": 0.0,
-            "scale": 5.0
+            "scale": 5
         },
         "b30": {
             "offset": 0.0,
-            "scale": 5.0
+            "scale": 5
         },
         "b60": {
             "offset": 0.0,
-            "scale": 5.0
+            "scale": 5
         }
     },
     "OpenLandMap/SOL/SOL_PH-H2O_USDA-4C1A2A_M/v02": {
         "b0": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b10": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b100": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b200": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b30": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         },
         "b60": {
             "offset": 0.0,
-            "scale": 10.0
+            "scale": 10
         }
     },
     "OpenLandMap/SOL/SOL_SAND-WFRACTION_USDA-3A1A1A_M/v02": {
