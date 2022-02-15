@@ -441,7 +441,13 @@
             "scale": 1.0
         }
     },
-    "COPERNICUS/S2": {
+    "COPERNICUS/S2_CLOUD_PROBABILITY": {
+        "probability": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "COPERNICUS/S2_HARMONIZED": {
         "B1": {
             "offset": 0.0,
             "scale": 0.0001
@@ -503,12 +509,6 @@
             "scale": 1.0
         },
         "QA60": {
-            "offset": 0.0,
-            "scale": 1.0
-        }
-    },
-    "COPERNICUS/S2_CLOUD_PROBABILITY": {
-        "probability": {
             "offset": 0.0,
             "scale": 1.0
         }
