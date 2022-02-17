@@ -441,6 +441,72 @@
             "scale": 1.0
         }
     },
+    "COPERNICUS/S2": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B10": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B12": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B8A": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "QA10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA60": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "COPERNICUS/S2_CLOUD_PROBABILITY": {
         "probability": {
             "offset": 0.0,
@@ -514,6 +580,100 @@
         }
     },
     "COPERNICUS/S2_SR": {
+        "AOT": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "B1": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B12": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B8A": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "MSK_CLDPRB": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_SNWPRB": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA60": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SCL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TCI_B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TCI_G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TCI_R": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WVP": {
+            "offset": 0.0,
+            "scale": 0.001
+        }
+    },
+    "COPERNICUS/S2_SR_HARMONIZED": {
         "AOT": {
             "offset": 0.0,
             "scale": 0.001
