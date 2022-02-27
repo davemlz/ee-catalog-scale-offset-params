@@ -2367,6 +2367,12 @@
             "scale": 1.0
         }
     },
+    "DOE/ORNL/LandScan_HD/Ukraine_202201": {
+        "population": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "ECMWF/CAMS/NRT": {
         "particulate_matter_d_less_than_25_um_surface": {
             "offset": 0.0,
