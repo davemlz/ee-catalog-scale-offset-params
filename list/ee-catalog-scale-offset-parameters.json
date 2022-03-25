@@ -21405,6 +21405,40 @@
             "scale": 1.0
         }
     },
+    "USGS/NLCD_RELEASES/2019_REL/RCMAP/V4/COVER": {
+        "rangeland_annual_herbaceous": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rangeland_bare_ground": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rangeland_herbaceous": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rangeland_litter": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rangeland_non_sagebrush_shrub": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rangeland_perennial_herbaceous": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rangeland_sagebrush": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rangeland_shrub": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USGS/SRTMGL1_003": {
         "elevation": {
             "offset": 0.0,
