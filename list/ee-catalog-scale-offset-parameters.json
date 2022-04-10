@@ -2368,11 +2368,123 @@
         }
     },
     "ECMWF/CAMS/NRT": {
+        "black_carbon_aerosol_optical_depth_at_550nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "dust_aerosol_optical_depth_at_550nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "gems_total_column_ozone_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "organic_matter_aerosol_optical_depth_at_550nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "particulate_matter_d_<_10_um_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "particulate_matter_d_<_1_um_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "particulate_matter_d_less_than_25_um_surface": {
             "offset": 0.0,
             "scale": 1.0
         },
+        "sea_salt_aerosol_optical_depth_at_550nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sulphate_aerosol_optical_depth_at_550nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_aerosol_optical_depth_at_1240nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_aerosol_optical_depth_at_469nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "total_aerosol_optical_depth_at_550nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_aerosol_optical_depth_at_670nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_aerosol_optical_depth_at_865nm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column__ethane_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column__isoprene_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column__peroxyacetyl_nitrate_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_carbon_monoxide_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_formaldehyde_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_hydrogen_peroxide_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_hydroxyl_radical_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_methane_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_nitric_acid_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_nitrogen_dioxide_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_nitrogen_monoxide_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_propane_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_column_sulphur_dioxide_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "uv_biologically_effective_dose_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "var98-0-210-250_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "var98-0-210-251_surface": {
             "offset": 0.0,
             "scale": 1.0
         }
