@@ -21627,6 +21627,60 @@
             "scale": 1.0
         }
     },
+    "UMD/hansen/global_forest_change_2021_v1_9": {
+        "datamask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b40": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b50": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b70": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "gain": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b40": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b50": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b70": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "loss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lossyear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "treecover2000": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "UMN/PGC/ArcticDEM/V2/2m": {
         "elevation": {
             "offset": 0.0,
@@ -21892,6 +21946,116 @@
         }
     },
     "USFS/GTAC/LCMS/v2020-6": {
+        "Change": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Change_Raw_Probability_Fast-Loss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Change_Raw_Probability_Gain": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Change_Raw_Probability_Slow-Loss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-and-Grass-Forb-Herb-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-and-Shrubs-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-or-Impervious": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Grass-Forb-Herb": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Grass-Forb-Herb-and-Shrubs-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Grass-Forb-Herb-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Shrubs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Shrubs-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Snow-or-Ice": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Tall-Shrubs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Tall-Shrubs-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Trees": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Water": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Agriculture": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Developed": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Forest": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Non-Forest-Wetland": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Other": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Rangeland-or-Pasture": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_Bits": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "USFS/GTAC/LCMS/v2021-7": {
         "Change": {
             "offset": 0.0,
             "scale": 1.0
