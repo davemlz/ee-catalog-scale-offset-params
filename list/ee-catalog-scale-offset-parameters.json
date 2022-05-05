@@ -17059,6 +17059,56 @@
             "scale": 1.0
         }
     },
+    "NASA/GEOS-CF/v1/rpl/htf": {
+        "CO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "O3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25_RH35_GOCART": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SLP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GIMMS/3GV0": {
         "ndvi": {
             "offset": 0.0,
