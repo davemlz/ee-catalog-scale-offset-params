@@ -8727,6 +8727,76 @@
             "scale": 1.0
         }
     },
+    "LANDSAT/LC09/C02/T2_TOA": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/LC8": {
         "B1": {
             "offset": 0.0,
