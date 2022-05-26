@@ -10831,10 +10831,6 @@
         "B8": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LE7_L1T_8DAY_BAI": {
@@ -10949,10 +10945,6 @@
             "scale": 1.0
         },
         "B8": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "BQA": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -11071,10 +11063,6 @@
         "B8": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LE7_L1T_TOA": {
@@ -11111,10 +11099,6 @@
             "scale": 1.0
         },
         "B8": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "BQA": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -13247,10 +13231,6 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LT05/C02/T2": {
@@ -13411,10 +13391,6 @@
             "scale": 1.0
         },
         "B7": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "BQA": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -13619,10 +13595,6 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LT4_L1T_8DAY_BAI": {
@@ -13723,10 +13695,6 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LT4_L1T_ANNUAL_BAI": {
@@ -13767,10 +13735,6 @@
             "scale": 1.0
         },
         "B7": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "BQA": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -13865,10 +13829,6 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LT4_L1T_TOA": {
@@ -13897,10 +13857,6 @@
             "scale": 1.0
         },
         "B7": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "BQA": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -14071,10 +14027,6 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LT5_L1T_8DAY_BAI": {
@@ -14175,10 +14127,6 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LT5_L1T_ANNUAL_BAI": {
@@ -14219,10 +14167,6 @@
             "scale": 1.0
         },
         "B7": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "BQA": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -14317,10 +14261,6 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "BQA": {
-            "offset": 0.0,
-            "scale": 1.0
         }
     },
     "LANDSAT/LT5_L1T_TOA": {
@@ -14349,10 +14289,6 @@
             "scale": 1.0
         },
         "B7": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "BQA": {
             "offset": 0.0,
             "scale": 1.0
         }
