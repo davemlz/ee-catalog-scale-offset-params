@@ -2367,6 +2367,12 @@
             "scale": 1.0
         }
     },
+    "DOE/ORNL/LandScan_HD/Ukraine_202201": {
+        "population": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "ECMWF/CAMS/NRT": {
         "black_carbon_aerosol_optical_depth_at_550nm_surface": {
             "offset": 0.0,
@@ -6559,6 +6565,40 @@
             "scale": 1.0
         },
         "satelliteInfoFlag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "JCU/Murray/GIC/global_tidal_wetland_change/2019": {
+        "gain": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "gainType": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "gainYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "loss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lossType": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lossYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "twprobabilityEnd": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "twprobabilityStart": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -13231,6 +13271,30 @@
         "B7": {
             "offset": 0.0,
             "scale": 1.0
+        },
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VZA": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "LANDSAT/LT05/C02/T2": {
@@ -13391,6 +13455,30 @@
             "scale": 1.0
         },
         "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VZA": {
             "offset": 0.0,
             "scale": 1.0
         }
