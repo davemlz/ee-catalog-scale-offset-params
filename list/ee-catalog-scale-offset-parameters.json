@@ -4363,6 +4363,48 @@
             "scale": 1.0
         }
     },
+    "GOOGLE/DYNAMICWORLD/V1": {
+        "bare": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "built": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "crops": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "flooded_vegetation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "grass": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "label": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shrub_and_scrub": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_and_ice": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "trees": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "water": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "GRIDMET/DROUGHT": {
         "eddi14d": {
             "offset": 0.0,
