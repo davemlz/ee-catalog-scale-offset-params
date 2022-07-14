@@ -11751,6 +11751,32 @@
             "scale": 1.0
         }
     },
+    "LANDSAT/LM05/C02/T2": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/LM1": {
         "B4": {
             "offset": 0.0,
@@ -22824,6 +22850,12 @@
         }
     },
     "USGS/3DEP/10m": {
+        "elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "USGS/3DEP/1m": {
         "elevation": {
             "offset": 0.0,
             "scale": 1.0
