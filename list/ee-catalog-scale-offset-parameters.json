@@ -18167,6 +18167,208 @@
             "scale": 1.0
         }
     },
+    "NASA/GSFC/MERRA/aer/2": {
+        "BCANGSTR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCCMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCEXTTAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCFLUXU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCFLUXV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCSCATAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCSMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DMSCMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DMSSMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUANGSTR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUCMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUCMASS25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUEXTT25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUEXTTAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUFLUXU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUFLUXV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUSCAT25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUSCATAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUSMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DUSMASS25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCANGSTR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCCMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCEXTTAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCFLUXU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCFLUXV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCSCATAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCSMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SO2CMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SO2SMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SO4CMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SO4SMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSANGSTR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSCMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSCMASS25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSEXTT25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSEXTTAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSFLUXU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSFLUXV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSSCAT25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSSCATAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSSMASS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SSSMASS25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SUANGSTR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SUEXTTAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SUFLUXU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SUFLUXV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SUSCATAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTANGSTR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTEXTTAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTSCATAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/JPL/global_forest_canopy_height_2005": {
         "1": {
             "offset": 0.0,
