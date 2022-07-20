@@ -6667,6 +6667,12 @@
             "scale": 1.0
         }
     },
+    "JRC/D5/EUCROPMAP/V1": {
+        "classification": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GHSL/P2016/BUILT_LDSMT_GLOBE_V1": {
         "built": {
             "offset": 0.0,
@@ -8829,6 +8835,154 @@
         "VZA": {
             "offset": 0.0,
             "scale": 1.0
+        }
+    },
+    "LANDSAT/LC09/C02/T2": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/LC09/C02/T2_L2": {
+        "QA_PIXEL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_RADSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SR_B1": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B2": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B3": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B4": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B5": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B6": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_B7": {
+            "offset": -0.2,
+            "scale": 2.75e-05
+        },
+        "SR_QA_AEROSOL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ST_ATRAN": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_B10": {
+            "offset": 149,
+            "scale": 0.00341802
+        },
+        "ST_CDIST": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_DRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_EMIS": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_EMSD": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "ST_QA": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "ST_TRAD": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "ST_URAD": {
+            "offset": 0.0,
+            "scale": 0.001
         }
     },
     "LANDSAT/LC09/C02/T2_TOA": {
@@ -14927,6 +15081,610 @@
             "scale": 1.0
         }
     },
+    "LARSE/GEDI/GEDI02_A_002_MONTHLY": {
+        "beam": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "degrade_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "delta_time": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "digital_elevation_model": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "digital_elevation_model_srtm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "elev_highestreturn": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "elev_lowestmode": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "elevation_bias_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "energy_total": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "landsat_treecover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "landsat_water_persistence": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lat_highestreturn": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_off_doy": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_off_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_on_cycle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_on_doy": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "local_beam_azimuth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "local_beam_elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lon_highestreturn": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "minor_frame_number": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "modis_nonvegetated": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "modis_nonvegetated_sd": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "modis_treecover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "modis_treecover_sd": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "num_detectedmodes": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbit_number": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pft_class": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "quality_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "region_class": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh100": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh17": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh18": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh19": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh21": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh22": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh23": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh24": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh26": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh27": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh28": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh29": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh31": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh32": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh33": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh34": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh35": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh36": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh37": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh38": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh39": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh40": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh41": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh42": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh43": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh44": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh45": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh46": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh47": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh48": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh49": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh50": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh51": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh52": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh53": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh54": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh55": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh56": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh57": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh58": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh59": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh60": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh61": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh62": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh63": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh64": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh65": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh66": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh67": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh68": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh69": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh70": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh71": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh72": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh73": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh74": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh75": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh76": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh77": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh78": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh79": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh80": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh81": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh82": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh83": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh84": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh85": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh86": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh87": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh88": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh89": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh90": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh91": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh92": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh93": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh94": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh95": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh96": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh97": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh98": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rh99": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "selected_algorithm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "selected_mode": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "selected_mode_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sensitivity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shot_number_within_beam": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "solar_azimuth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "solar_elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "urban_focal_window_size": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "urban_proportion": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LARSE/GEDI/GEDI04_B_002": {
+        "MI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V2": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MERIT/DEM/v1_0_3": {
         "dem": {
             "offset": 0.0,
@@ -17177,6 +17935,216 @@
             "scale": 0.0001
         }
     },
+    "MODIS/061/MCD15A3H": {
+        "Fpar": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "FparExtra_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparLai_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparStdDev": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "Lai": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "LaiStdDev": {
+            "offset": 0.0,
+            "scale": 0.1
+        }
+    },
+    "MODIS/061/MCD43A1": {
+        "BRDF_Albedo_Band_Mandatory_Quality_Band1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_Band2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_Band3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_Band4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_Band5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_Band6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_Band7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_nir": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_shortwave": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Mandatory_Quality_vis": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Parameters_Band1_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band1_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band1_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band2_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band2_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band2_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band3_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band3_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band3_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band4_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band4_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band4_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band5_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band5_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band5_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band6_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band6_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band6_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band7_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band7_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_Band7_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_nir_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_nir_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_nir_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_shortwave_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_shortwave_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_shortwave_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_vis_geo": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_vis_iso": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "BRDF_Albedo_Parameters_vis_vol": {
+            "offset": 0.0,
+            "scale": 0.001
+        }
+    },
+    "MODIS/061/MCD64A1": {
+        "BurnDate": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FirstDay": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LastDay": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Uncertainty": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MOD08_M3": {
         "Aerosol_Optical_Depth_Land_Ocean_Mean_Mean": {
             "offset": 0.0,
@@ -17219,6 +18187,488 @@
             "scale": 0.01
         }
     },
+    "MODIS/061/MOD09A1": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "StateQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b04": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b05": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b06": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MOD09GA": {
+        "QC_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Range": {
+            "offset": 0.0,
+            "scale": 25
+        },
+        "SensorAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SensorZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "gflags": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "granule_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "iobs_res": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "num_observations_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "num_observations_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "obscov_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbit_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "q_scan": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "state_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b04": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b05": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b06": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MOD09GQ": {
+        "QC_250m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "granule_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "iobs_res": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "num_observations": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "obscov": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "orbit_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MOD09Q1": {
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "State": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MOD11A1": {
+        "Clear_day_cov": {
+            "offset": 0.0,
+            "scale": 0.0005
+        },
+        "Clear_night_cov": {
+            "offset": 0.0,
+            "scale": 0.0005
+        },
+        "Day_view_angle": {
+            "offset": -65,
+            "scale": 1.0
+        },
+        "Day_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "Emis_31": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "Emis_32": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "LST_Day_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "LST_Night_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "Night_view_angle": {
+            "offset": -65,
+            "scale": 1.0
+        },
+        "Night_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "QC_Day": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QC_Night": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/061/MOD11A2": {
+        "Clear_sky_days": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Clear_sky_nights": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Day_view_angl": {
+            "offset": -65,
+            "scale": 1
+        },
+        "Day_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "Emis_31": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "Emis_32": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "LST_Day_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "LST_Night_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "Night_view_angl": {
+            "offset": -65,
+            "scale": 1
+        },
+        "Night_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "QC_Day": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QC_Night": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/061/MOD13A1": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MOD13A2": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MOD13Q1": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MOD14A2": {
+        "FireMask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/061/MOD15A2H": {
+        "FparExtra_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparLai_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparStdDev_500m": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "Fpar_500m": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "LaiStdDev_500m": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "Lai_500m": {
+            "offset": 0.0,
+            "scale": 0.1
+        }
+    },
     "MODIS/061/MYD08_M3": {
         "Aerosol_Optical_Depth_Land_Ocean_Mean_Mean": {
             "offset": 0.0,
@@ -17259,6 +18709,488 @@
         "Cloud_Optical_Thickness_Liquid_Mean_Uncertainty": {
             "offset": 0.0,
             "scale": 0.01
+        }
+    },
+    "MODIS/061/MYD09A1": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "StateQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b04": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b05": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b06": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD09GA": {
+        "QC_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Range": {
+            "offset": 0.0,
+            "scale": 25
+        },
+        "SensorAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SensorZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "gflags": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "granule_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "iobs_res": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "num_observations_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "num_observations_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "obscov_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbit_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "q_scan": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "state_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b04": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b05": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b06": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD09GQ": {
+        "QC_250m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "granule_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "iobs_res": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "num_observations": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "obscov": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "orbit_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD09Q1": {
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "State": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD11A1": {
+        "Clear_day_cov": {
+            "offset": 0.0,
+            "scale": 0.0005
+        },
+        "Clear_night_cov": {
+            "offset": 0.0,
+            "scale": 0.0005
+        },
+        "Day_view_angle": {
+            "offset": -65,
+            "scale": 1.0
+        },
+        "Day_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "Emis_31": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "Emis_32": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "LST_Day_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "LST_Night_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "Night_view_angle": {
+            "offset": -65,
+            "scale": 1.0
+        },
+        "Night_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "QC_Day": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QC_Night": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/061/MYD11A2": {
+        "Clear_sky_days": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Clear_sky_nights": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Day_view_angl": {
+            "offset": -65,
+            "scale": 1
+        },
+        "Day_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "Emis_31": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "Emis_32": {
+            "offset": 0.49,
+            "scale": 0.002
+        },
+        "LST_Day_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "LST_Night_1km": {
+            "offset": 0.0,
+            "scale": 0.02
+        },
+        "Night_view_angl": {
+            "offset": -65,
+            "scale": 1
+        },
+        "Night_view_time": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "QC_Day": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QC_Night": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/061/MYD13A1": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD13A2": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD13Q1": {
+        "DayOfYear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD14A2": {
+        "FireMask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "MODIS/061/MYD15A2H": {
+        "FparExtra_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparLai_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparStdDev_500m": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "Fpar_500m": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "LaiStdDev_500m": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "Lai_500m": {
+            "offset": 0.0,
+            "scale": 0.1
         }
     },
     "MODIS/MCD43A4_006_BAI": {
@@ -18365,6 +20297,196 @@
             "scale": 1.0
         },
         "TOTSCATAU": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/GSFC/MERRA/slv/2": {
+        "CLDPRS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CLDTMP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DISPH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "H1000": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "H250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "H500": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "H850": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OMEGA500": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PBLTOP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q500": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q850": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QV10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QV2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SLP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T2MDEW": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T2MWET": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T500": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T850": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TO3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOX": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TQI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TQL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TQV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPPB": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPPT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPPV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPQ": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U500": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U50M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U850": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V500": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V50M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V850": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ZLCL": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -21888,6 +24010,16 @@
         }
     },
     "TERN/AET/CMRSET_LANDSAT_V2_1": {
+        "ETa": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pixel_qa": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "TERN/AET/CMRSET_LANDSAT_V2_2": {
         "ETa": {
             "offset": 0.0,
             "scale": 1.0
