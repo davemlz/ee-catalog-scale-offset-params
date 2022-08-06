@@ -1236,6 +1236,14 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "CH4_column_volume_mixing_ratio_dry_air_bias_corrected": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CH4_column_volume_mixing_ratio_dry_air_uncertainty": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "aerosol_height": {
             "offset": 0.0,
             "scale": 1.0
