@@ -18641,6 +18641,24 @@
             "scale": 0.0001
         }
     },
+    "MODIS/061/MOD14A1": {
+        "FireMask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MaxFRP": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sample": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MOD14A2": {
         "FireMask": {
             "offset": 0.0,
@@ -19163,6 +19181,24 @@
         "sur_refl_b07": {
             "offset": 0.0,
             "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD14A1": {
+        "FireMask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MaxFRP": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sample": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "MODIS/061/MYD14A2": {
