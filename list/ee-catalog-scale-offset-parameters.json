@@ -23579,6 +23579,84 @@
             "scale": 1.0
         }
     },
+    "NOAA/VIIRS/001/VNP22Q2": {
+        "Date_Mid_Greenup_Phase": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Date_Mid_Senescence_Phase": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI2_Growing_Season_Area": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI2_Onset_Greenness_Increase": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI2_Onset_Greenness_Maximum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GLSP_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Greenness_Agreement_Growing_Season": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Growing_Season_Length": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Decrease": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Increase": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Maximum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Minimum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Growing_Season": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Decrease": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Increase": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Maximum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Minimum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Rate_Greenness_Decrease": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Rate_Greenness_Increase": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG": {
         "avg_rad": {
             "offset": 0.0,
