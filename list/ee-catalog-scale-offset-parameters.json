@@ -119,6 +119,12 @@
             "scale": 1.0
         }
     },
+    "BNU/FGS/CCNL/v1": {
+        "b1": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "CAS/IGSNRR/PML/V2": {
         "ET_water": {
             "offset": 0.0,
