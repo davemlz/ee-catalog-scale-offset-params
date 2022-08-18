@@ -16866,7 +16866,7 @@
         },
         "Day_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Day_view_time": {
             "offset": 0.0,
@@ -16890,7 +16890,7 @@
         },
         "Night_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Night_view_time": {
             "offset": 0.0,
@@ -17600,7 +17600,7 @@
         },
         "Day_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Day_view_time": {
             "offset": 0.0,
@@ -17624,7 +17624,7 @@
         },
         "Night_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Night_view_time": {
             "offset": 0.0,
@@ -18458,7 +18458,7 @@
         },
         "Day_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Day_view_time": {
             "offset": 0.0,
@@ -18482,7 +18482,7 @@
         },
         "Night_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Night_view_time": {
             "offset": 0.0,
@@ -19000,7 +19000,7 @@
         },
         "Day_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Day_view_time": {
             "offset": 0.0,
@@ -19024,7 +19024,7 @@
         },
         "Night_view_angl": {
             "offset": -65,
-            "scale": 1
+            "scale": 1.0
         },
         "Night_view_time": {
             "offset": 0.0,
