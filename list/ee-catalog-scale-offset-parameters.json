@@ -15657,6 +15657,452 @@
             "scale": 1.0
         }
     },
+    "LARSE/GEDI/GEDI02_B_002_MONTHLY": {
+        "algorithmrun_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "beam": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z17": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z18": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z19": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z21": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z22": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z23": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z24": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z26": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z27": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z28": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z29": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cover_z9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "degrade_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "delta_time": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "fhd_normal": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "l2b_quality_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "local_beam_azimuth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "local_beam_elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z17": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z18": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z19": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z21": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z22": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z23": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z24": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z26": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z27": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z28": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z29": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pai_z9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z17": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z18": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z19": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z21": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z22": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z23": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z24": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z26": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z27": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z28": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z29": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pavd_z9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pgap_theta": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "selected_l2a_algorithm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "selected_rg_algorithm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sensitivity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shot_number": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shot_number_within_beam": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "solar_azimuth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "solar_elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LARSE/GEDI/GEDI04_B_002": {
         "MI": {
             "offset": 0.0,
