@@ -6019,6 +6019,20 @@
             "scale": 0.01
         }
     },
+    "IGN/RGE_ALTI/1M/2_0": {
+        "DST": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MNT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SRC": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "ISDASOIL/Africa/v1/aluminium_extractable": {
         "mean_0_20": {
             "offset": 0.0,
