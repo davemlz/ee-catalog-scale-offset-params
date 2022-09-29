@@ -26707,6 +26707,12 @@
             "scale": 1.0
         }
     },
+    "USFS/GTAC/MTBS/annual_burn_severity_mosaics/v1": {
+        "Severity": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USGS/3DEP/10m": {
         "elevation": {
             "offset": 0.0,
