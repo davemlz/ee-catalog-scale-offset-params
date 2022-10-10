@@ -6497,6 +6497,28 @@
             "scale": 1.0
         }
     },
+    "JAXA/ALOS/PALSAR/YEARLY/SAR_EPOCH": {
+        "HH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "epoch": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "qa": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JAXA/GCOM-C/L3/LAND/LAI/V1": {
         "LAI_AVE": {
             "offset": 0.0,
