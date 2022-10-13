@@ -4221,6 +4221,34 @@
             "scale": 1.0
         }
     },
+    "FAO/SOFO/1/FPP": {
+        "FPP_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FPP_5km": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "FAO/SOFO/1/TPP": {
+        "TPP_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TPP_1km_cropland": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TPP_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TPP_500m_cropland": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "FAO/WAPOR/2/L1_AETI_D": {
         "L1_AETI_D": {
             "offset": 0.0,
