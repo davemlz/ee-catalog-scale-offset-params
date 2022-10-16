@@ -6503,6 +6503,12 @@
             "scale": 1.0
         }
     },
+    "JAXA/ALOS/PALSAR/YEARLY/FNF4": {
+        "fnf": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JAXA/ALOS/PALSAR/YEARLY/SAR": {
         "HH": {
             "offset": 0.0,
