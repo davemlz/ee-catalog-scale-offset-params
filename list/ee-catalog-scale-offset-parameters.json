@@ -21009,6 +21009,104 @@
             "scale": 1.0
         }
     },
+    "NASA/GLDAS/V022/CLSM/G025/DA1D": {
+        "ACond_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AvgSurfT_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CanopInt_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ECanop_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ESoil_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EvapSnow_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Evap_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GWS_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Lwnet_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Qg_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Qh_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Qle_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Qs_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Qsb_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Qsm_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWE_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SnowDepth_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SnowT_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SoilMoist_P_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SoilMoist_RZ_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SoilMoist_S_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Swnet_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TVeg_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TWS_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GLDAS/V20/NOAH/G025/T3H": {
         "Albedo_inst": {
             "offset": 0.0,
@@ -25615,6 +25713,20 @@
             "scale": 1.0
         },
         "friction_walking_only": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "RUB/RUBCLIM/LCZ/global_lcz_map/v1": {
+        "LCZ": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LCZ_Filter": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LCZ_Probability": {
             "offset": 0.0,
             "scale": 1.0
         }
