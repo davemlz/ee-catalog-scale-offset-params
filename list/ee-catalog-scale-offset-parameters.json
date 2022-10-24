@@ -6497,6 +6497,24 @@
             "scale": 1.0
         }
     },
+    "JAXA/ALOS/PALSAR-2/Level2_2/ScanSAR": {
+        "HH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LIN": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "MSK": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JAXA/ALOS/PALSAR/YEARLY/FNF": {
         "fnf": {
             "offset": 0.0,
