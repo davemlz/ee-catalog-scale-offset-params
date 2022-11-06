@@ -21595,6 +21595,540 @@
             "scale": 1.0
         }
     },
+    "NASA/GSFC/MERRA/flx/2": {
+        "BSTAR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CDH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CDM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CDQ": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DISPH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EFLUX": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVAP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRCAN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRCCN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRCLS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRSEAICE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GHTSKIN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HFLUX": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HLML": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIRDF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIRDR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PBLH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGENTOT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECANV": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECCON": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECLSC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECSNO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECTOT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECTOTCORR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PREVTOT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QLML": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QSH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QSTAR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RHOA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RISFC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEED": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEEDMAX": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAUGWX": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAUGWY": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAUX": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAUY": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TCZPBL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TLML": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSTAR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ULML": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "USTAR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VLML": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Z0H": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Z0M": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/GSFC/MERRA/lnd/2": {
+        "BASEFLOW": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ECHANGE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVPINTR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVPSBLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVPSOIL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVPTRNS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRSNO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRUNST": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FRWLT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GHLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GRN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GWETPROF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GWETROOT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GWETTOP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LHLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PARDFLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PARDRLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECSNOLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRECTOTLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRMC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QINFIL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RUNOFF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RZMC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SFMC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SHLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SMLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SNODP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SNOMAS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPSNOW": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPWATR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TELAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TPSNOW": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSAT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSOIL1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSOIL2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSOIL3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSOIL4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSOIL5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSOIL6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TSURF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TUNST": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TWLAND": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TWLT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WCHANGE": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/GSFC/MERRA/rad/2": {
+        "ALBEDO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ALBNIRDF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ALBNIRDR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ALBVISDF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ALBVISDR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CLDHGH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CLDLOW": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CLDMID": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CLDTOT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EMIS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWGAB": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWGABCLR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWGABCLRCLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWGEM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWGNT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWGNTCLR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWGNTCLRCLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWTUP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWTUPCLR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LWTUPCLRCLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWGDN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWGDNCLR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWGNT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWGNTCLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWGNTCLR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWGNTCLRCLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWTDN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWTNT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWTNTCLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWTNTCLR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWTNTCLRCLN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAUHGH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAULOW": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAUMID": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TAUTOT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TS": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GSFC/MERRA/slv/2": {
         "CLDPRS": {
             "offset": 0.0,
