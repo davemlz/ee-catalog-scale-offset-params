@@ -4193,6 +4193,12 @@
             "scale": 1.0
         }
     },
+    "ESA/WorldCover/v200": {
+        "Map": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "FAO/GHG/1/DROSA_A": {
         "cropland": {
             "offset": 0.0,
