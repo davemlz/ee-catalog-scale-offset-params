@@ -24719,6 +24719,50 @@
             "scale": 1.0
         }
     },
+    "NOAA/GOES/18/FDCC": {
+        "Area": {
+            "offset": 4000,
+            "scale": 60.98
+        },
+        "DQF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Mask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Power": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Temp": {
+            "offset": 400,
+            "scale": 0.05493667
+        }
+    },
+    "NOAA/GOES/18/FDCF": {
+        "Area": {
+            "offset": 4000,
+            "scale": 60.98
+        },
+        "DQF": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Mask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Power": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Temp": {
+            "offset": 400,
+            "scale": 0.05493667
+        }
+    },
     "NOAA/GOES/18/MCMIPC": {
         "CMI_C01": {
             "offset": 0.0,
