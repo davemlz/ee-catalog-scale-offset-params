@@ -4317,6 +4317,48 @@
             "scale": 1.0
         }
     },
+    "Finland/MAVI/VV/50cm": {
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "N": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "Finland/SMK/V/50cm": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "Finland/SMK/VV/50cm": {
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "N": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "GFW/GFF/V1/fishing_hours": {
         "drifting_longlines": {
             "offset": 0.0,
@@ -21147,6 +21189,20 @@
             "scale": 0.1
         }
     },
+    "MODIS/061/MYD17A3HGF": {
+        "Gpp": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Npp": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Npp_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MYD21A1D": {
         "Emis_29": {
             "offset": 0.49,
@@ -27449,6 +27505,32 @@
             "scale": 1.0
         },
         "velocity_y": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "OpenET/ENSEMBLE/CONUS/GRIDMET/MONTHLY/v2_0": {
+        "et_ensemble_mad": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et_ensemble_mad_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et_ensemble_mad_index": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et_ensemble_mad_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et_ensemble_mad_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et_ensemble_sam": {
             "offset": 0.0,
             "scale": 1.0
         }
