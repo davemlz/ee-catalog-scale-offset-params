@@ -27180,79 +27180,155 @@
         }
     },
     "NOAA/VIIRS/001/VNP22Q2": {
-        "Date_Mid_Greenup_Phase": {
+        "Date_Mid_Greenup_Phase_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Date_Mid_Senescence_Phase": {
+        "Date_Mid_Greenup_Phase_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "EVI2_Growing_Season_Area": {
+        "Date_Mid_Senescence_Phase_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "EVI2_Onset_Greenness_Increase": {
+        "Date_Mid_Senescence_Phase_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "EVI2_Onset_Greenness_Maximum": {
+        "EVI2_Growing_Season_Area_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "GLSP_QC": {
+        "EVI2_Growing_Season_Area_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Greenness_Agreement_Growing_Season": {
+        "EVI2_Onset_Greenness_Increase_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Growing_Season_Length": {
+        "EVI2_Onset_Greenness_Increase_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Onset_Greenness_Decrease": {
+        "EVI2_Onset_Greenness_Maximum_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Onset_Greenness_Increase": {
+        "EVI2_Onset_Greenness_Maximum_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Onset_Greenness_Maximum": {
+        "GLSP_QC_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Onset_Greenness_Minimum": {
+        "GLSP_QC_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "PGQ_Growing_Season": {
+        "Greenness_Agreement_Growing_Season_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "PGQ_Onset_Greenness_Decrease": {
+        "Greenness_Agreement_Growing_Season_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "PGQ_Onset_Greenness_Increase": {
+        "Growing_Season_Length_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "PGQ_Onset_Greenness_Maximum": {
+        "Growing_Season_Length_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "PGQ_Onset_Greenness_Minimum": {
+        "Onset_Greenness_Decrease_1": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Rate_Greenness_Decrease": {
+        "Onset_Greenness_Decrease_2": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Rate_Greenness_Increase": {
+        "Onset_Greenness_Increase_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Increase_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Maximum_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Maximum_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Minimum_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Onset_Greenness_Minimum_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Growing_Season_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Growing_Season_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Decrease_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Decrease_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Increase_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Increase_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Maximum_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Maximum_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Minimum_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PGQ_Onset_Greenness_Minimum_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Rate_Greenness_Decrease_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Rate_Greenness_Decrease_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Rate_Greenness_Increase_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Rate_Greenness_Increase_2": {
             "offset": 0.0,
             "scale": 1.0
         }
