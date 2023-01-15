@@ -24459,6 +24459,188 @@
             "scale": 1.0
         }
     },
+    "NASA/SMAP/SPL4SMGP/007": {
+        "baseflow_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "depth_to_water_table_from_surface_in_peat": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "free_surface_water_on_peat_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "heat_flux_ground": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "heat_flux_latent": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "heat_flux_sensible": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "height_lowatmmodlay": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "land_evapotranspiration_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "land_fraction_saturated": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "land_fraction_snow_covered": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "land_fraction_unsaturated": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "land_fraction_wilting": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_area_index": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "mwrtm_vegopacity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "net_downward_longwave_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "net_downward_shortwave_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "overland_runoff_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "precipitation_total_surface_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "radiation_longwave_absorbed_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "radiation_shortwave_downward_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_profile": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_profile_pctl": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_profile_wetness": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_rootzone": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_rootzone_pctl": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_rootzone_wetness": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sm_surface_wetness": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_mass": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_melt_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snowfall_surface_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temp_layer1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temp_layer2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temp_layer3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temp_layer4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temp_layer5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temp_layer6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_water_infiltration_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "specific_humidity_lowatmmodlay": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_pressure": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_temp": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "temp_lowatmmodlay": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "vegetation_greenness_fraction": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "windspeed_lowatmmodlay": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA_USDA/HSL/SMAP10KM_soil_moisture": {
         "smp": {
             "offset": 0.0,
