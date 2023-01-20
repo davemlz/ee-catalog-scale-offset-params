@@ -24459,6 +24459,64 @@
             "scale": 1.0
         }
     },
+    "NASA/SMAP/SPL3SMP_E/005": {
+        "retrieval_qual_flag_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "retrieval_qual_flag_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_moisture_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_moisture_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_h_corrected_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_h_corrected_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_h_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_h_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_v_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_v_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_v_corrected_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_v_corrected_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "vegetation_water_content_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "vegetation_water_content_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/SMAP/SPL4SMGP/007": {
         "baseflow_flux": {
             "offset": 0.0,
