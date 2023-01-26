@@ -3087,6 +3087,208 @@
             "scale": 1.0
         }
     },
+    "ECMWF/ERA5_LAND/MONTHLY_AGGR": {
+        "dewpoint_temperature_2m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_bare_soil_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_open_water_surfaces_excluding_oceans_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_the_top_of_canopy_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_vegetation_transpiration_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "forecast_albedo": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_bottom_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_ice_depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_ice_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_mix_layer_depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_mix_layer_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_shape_factor": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_total_layer_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_area_index_high_vegetation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_area_index_low_vegetation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "potential_evaporation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "runoff_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "skin_reservoir_content": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "skin_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_albedo": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_cover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_density": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_depth_water_equivalent": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_evaporation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snowfall_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snowmelt_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sub_surface_runoff_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_latent_heat_flux_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_net_solar_radiation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_net_thermal_radiation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_pressure": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_runoff_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_sensible_heat_flux_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_solar_radiation_downwards_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_thermal_radiation_downwards_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "temperature_2m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "temperature_of_snow_layer": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_evaporation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_precipitation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "u_component_of_wind_10m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "v_component_of_wind_10m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "ECMWF/ERA5_LAND/MONTHLY_BY_HOUR": {
         "dewpoint_temperature_2m": {
             "offset": 0.0,
