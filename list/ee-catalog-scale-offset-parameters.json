@@ -27853,6 +27853,28 @@
             "scale": 1.0
         }
     },
+    "NOAA/VIIRS/001/VNP64A1": {
+        "Burn_Date": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Burn_Date_Uncertainty": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "First_Day": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Last_Day": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG": {
         "avg_rad": {
             "offset": 0.0,
