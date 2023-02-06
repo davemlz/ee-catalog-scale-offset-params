@@ -4943,6 +4943,24 @@
             "scale": 1.0
         }
     },
+    "Germany/Brandenburg/orthos/20cm": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "N": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "HYCOM/GLBu0_08/sea_surface_elevation": {
         "surface_elevation": {
             "offset": 0.0,
@@ -22367,6 +22385,56 @@
             "scale": 1.0
         },
         "Wind_f_tavg": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/GEOS-CF/v1/fcst/htf": {
+        "CO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "O3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25_RH35_GOCART": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SLP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V": {
             "offset": 0.0,
             "scale": 1.0
         }
