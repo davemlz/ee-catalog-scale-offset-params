@@ -317,6 +317,28 @@
             "scale": 1.0
         }
     },
+    "COPERNICUS/DEM/GLO30": {
+        "DEM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EDM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FLM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HEM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WBM": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "COPERNICUS/Landcover/100m/Proba-V-C3/Global": {
         "bare-coverfraction": {
             "offset": 0.0,
