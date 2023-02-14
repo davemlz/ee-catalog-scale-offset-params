@@ -30541,6 +30541,10 @@
         "rangeland_shrub": {
             "offset": 0.0,
             "scale": 1.0
+        },
+        "rangeland_tree": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "USGS/SRTMGL1_003": {
