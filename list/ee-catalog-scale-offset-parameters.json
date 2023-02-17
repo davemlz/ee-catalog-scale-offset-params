@@ -27855,6 +27855,28 @@
             "scale": 1.0
         }
     },
+    "NOAA/VIIRS/001/VNP09H1": {
+        "SurfReflect_I1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_I2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_I3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_QC_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_State_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/VIIRS/001/VNP13A1": {
         "EVI": {
             "offset": 0.0,
