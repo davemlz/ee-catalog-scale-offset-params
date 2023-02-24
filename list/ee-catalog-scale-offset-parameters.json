@@ -29161,6 +29161,20 @@
             "scale": 1.0
         }
     },
+    "Spain/PNOA/PNOA10": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "TERN/AET/CMRSET_LANDSAT_V2_1": {
         "ETa": {
             "offset": 0.0,
