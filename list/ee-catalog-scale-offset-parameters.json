@@ -28175,6 +28175,36 @@
             "scale": 1.0
         }
     },
+    "NOAA/VIIRS/001/VNP46A2": {
+        "DNB_BRDF_Corrected_NTL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DNB_Lunar_Irradiance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Gap_Filled_DNB_BRDFCorrected_NTL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Latest_High_Quality_Retrieval": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Mandatory_Quality_Flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_Cloud_Mask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Snow_Flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/VIIRS/001/VNP64A1": {
         "Burn_Date": {
             "offset": 0.0,
