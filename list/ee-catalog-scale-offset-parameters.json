@@ -22487,6 +22487,44 @@
             "scale": 1.0
         }
     },
+    "NASA/GDDP-CMIP6": {
+        "hurs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "huss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pr": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rlds": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "rsds": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sfcWind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tas": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tasmax": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tasmin": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GEOS-CF/v1/fcst/htf": {
         "CO": {
             "offset": 0.0,
