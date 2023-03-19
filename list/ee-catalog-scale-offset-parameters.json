@@ -27999,6 +27999,32 @@
             "scale": 1.0
         }
     },
+    "NOAA/VIIRS/001/VNP15A2H": {
+        "Fpar": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparExtra_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparLai_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FparStdDev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Lai": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LaiStdDev": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/VIIRS/001/VNP21A1D": {
         "Emis_14": {
             "offset": 0.49,
