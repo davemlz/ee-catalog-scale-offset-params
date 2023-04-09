@@ -28239,6 +28239,52 @@
             "scale": 1.0
         }
     },
+    "NOAA/VIIRS/001/VNP43IA2": {
+        "BRDF_Albedo_Band_Quality_I1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Quality_I2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Band_Quality_I3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_LandWaterType": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_LocalSolarNoon": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Platform": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_Uncertainty": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_ValidObs_I1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_ValidObs_I2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BRDF_Albedo_ValidObs_I3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Snow_BRDF_Albedo": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/VIIRS/001/VNP46A2": {
         "DNB_BRDF_Corrected_NTL": {
             "offset": 0.0,
