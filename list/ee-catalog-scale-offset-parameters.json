@@ -22292,7 +22292,7 @@
         },
         "LE": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 10000
         },
         "PET": {
             "offset": 0.0,
@@ -22300,7 +22300,7 @@
         },
         "PLE": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 10000
         }
     },
     "NASA/ASTER_GED/AG100_003": {
