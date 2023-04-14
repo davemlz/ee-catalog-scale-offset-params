@@ -19509,6 +19509,60 @@
             "scale": 1.0
         }
     },
+    "MODIS/061/MCD19A2_GRANULES": {
+        "AOD_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD_Uncertainty": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "AngstromExp_470-780": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Column_WV": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "FineModeFraction": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Glint_Angle": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "Injection_Height": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Optical_Depth_047": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "Optical_Depth_055": {
+            "offset": 0.0,
+            "scale": 0.001
+        },
+        "RelAZ": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "Scattering_Angle": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "cosSZA": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "cosVZA": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
     "MODIS/061/MCD43A1": {
         "BRDF_Albedo_Band_Mandatory_Quality_Band1": {
             "offset": 0.0,
