@@ -2643,7 +2643,7 @@
             "scale": 1.0
         }
     },
-    "ECMWF/ERA5_LAND/DAILY_RAW": {
+    "ECMWF/ERA5_LAND/DAILY_AGGR": {
         "dewpoint_temperature_2m": {
             "offset": 0.0,
             "scale": 1.0
