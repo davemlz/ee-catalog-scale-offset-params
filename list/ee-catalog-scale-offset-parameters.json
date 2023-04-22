@@ -4639,6 +4639,26 @@
             "scale": 1.0
         }
     },
+    "Estonia/Maamet/orthos/mono": {
+        "mono": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "Estonia/Maamet/orthos/rgb": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "FAO/GHG/1/DROSA_A": {
         "cropland": {
             "offset": 0.0,
