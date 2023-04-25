@@ -28062,7 +28062,7 @@
         },
         "MaxFRP": {
             "offset": 0.0,
-            "scale": 0.1
+            "scale": 1.0
         },
         "QA": {
             "offset": 0.0,
