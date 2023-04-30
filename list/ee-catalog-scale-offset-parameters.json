@@ -28663,6 +28663,26 @@
             "scale": 1.0
         }
     },
+    "OpenET/DISALEXI/CONUS/GRIDMET/MONTHLY/v2_0": {
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "OpenET/EEMETRIC/CONUS/GRIDMET/MONTHLY/v2_0": {
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "OpenET/ENSEMBLE/CONUS/GRIDMET/MONTHLY/v2_0": {
         "et_ensemble_mad": {
             "offset": 0.0,
@@ -28685,6 +28705,46 @@
             "scale": 1.0
         },
         "et_ensemble_sam": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "OpenET/GEESEBAL/CONUS/GRIDMET/MONTHLY/v2_0": {
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "OpenET/PTJPL/CONUS/GRIDMET/MONTHLY/v2_0": {
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "OpenET/SIMS/CONUS/GRIDMET/MONTHLY/v2_0": {
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "OpenET/SSEBOP/CONUS/GRIDMET/MONTHLY/v2_0": {
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "et": {
             "offset": 0.0,
             "scale": 1.0
         }
