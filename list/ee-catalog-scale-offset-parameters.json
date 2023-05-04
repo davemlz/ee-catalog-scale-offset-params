@@ -28359,6 +28359,112 @@
             "scale": 1.0
         }
     },
+    "NOAA/VIIRS/001/VNP46A1": {
+        "BrightnessTemperature_M12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BrightnessTemperature_M13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BrightnessTemperature_M15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BrightnessTemperature_M16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DNB_At_Sensor_Radiance_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Glint_Angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Granule": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Lunar_Azimuth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Lunar_Zenith": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Moon_Illumination_Fraction": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Moon_Phase_Angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_Cloud_Mask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_DNB": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_VIIRS_M10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_VIIRS_M11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_VIIRS_M12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_VIIRS_M13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_VIIRS_M15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QF_VIIRS_M16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Radiance_M10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Radiance_M11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Sensor_Azimuth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Sensor_Zenith": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Solar_Azimuth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Solar_Zenith": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "UTC_Time": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/VIIRS/001/VNP46A2": {
         "DNB_BRDF_Corrected_NTL": {
             "offset": 0.0,
