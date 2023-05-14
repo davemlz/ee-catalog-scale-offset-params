@@ -17063,6 +17063,34 @@
             "scale": 1.0
         }
     },
+    "Latvia/Maamet/orthos/cir": {
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "N": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "Latvia/Maamet/orthos/rgb": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MERIT/DEM/v1_0_3": {
         "dem": {
             "offset": 0.0,
