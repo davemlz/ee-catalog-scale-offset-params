@@ -31157,6 +31157,116 @@
             "scale": 1.0
         }
     },
+    "USFS/GTAC/LCMS/v2022-8": {
+        "Change": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Change_Raw_Probability_Fast-Loss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Change_Raw_Probability_Gain": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Change_Raw_Probability_Slow-Loss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-and-Grass-Forb-Herb-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-and-Shrubs-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Barren-or-Impervious": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Grass-Forb-Herb": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Grass-Forb-Herb-and-Shrubs-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Grass-Forb-Herb-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Shrubs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Shrubs-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Snow-or-Ice": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Tall-Shrubs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Tall-Shrubs-and-Trees-Mix": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Trees": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Raw_Probability_Water": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Agriculture": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Developed": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Forest": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Non-Forest-Wetland": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Other": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Use_Raw_Probability_Rangeland-or-Pasture": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA_Bits": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USFS/GTAC/MTBS/annual_burn_severity_mosaics/v1": {
         "Severity": {
             "offset": 0.0,
