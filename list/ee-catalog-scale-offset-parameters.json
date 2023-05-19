@@ -2648,7 +2648,31 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "dewpoint_temperature_2m_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "dewpoint_temperature_2m_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_bare_soil_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_bare_soil_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "evaporation_from_bare_soil_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_open_water_surfaces_excluding_oceans_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_open_water_surfaces_excluding_oceans_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2656,7 +2680,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "evaporation_from_the_top_of_canopy_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_the_top_of_canopy_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "evaporation_from_the_top_of_canopy_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_vegetation_transpiration_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "evaporation_from_vegetation_transpiration_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2668,7 +2708,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "forecast_albedo_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "forecast_albedo_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "lake_bottom_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_bottom_temperature_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_bottom_temperature_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2676,7 +2732,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "lake_ice_depth_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_ice_depth_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "lake_ice_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_ice_temperature_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_ice_temperature_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2684,7 +2756,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "lake_mix_layer_depth_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_mix_layer_depth_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "lake_mix_layer_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_mix_layer_temperature_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_mix_layer_temperature_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2692,7 +2780,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "lake_shape_factor_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_shape_factor_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "lake_total_layer_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_total_layer_temperature_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lake_total_layer_temperature_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2700,11 +2804,43 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "leaf_area_index_high_vegetation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_area_index_high_vegetation_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "leaf_area_index_low_vegetation": {
             "offset": 0.0,
             "scale": 1.0
         },
+        "leaf_area_index_low_vegetation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "leaf_area_index_low_vegetation_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "potential_evaporation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "potential_evaporation_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "potential_evaporation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "runoff_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "runoff_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2716,7 +2852,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "skin_reservoir_content_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "skin_reservoir_content_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "skin_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "skin_temperature_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "skin_temperature_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2724,7 +2876,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "snow_albedo_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_albedo_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "snow_cover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_cover_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_cover_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2732,7 +2900,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "snow_density_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_density_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "snow_depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_depth_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_depth_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2740,11 +2924,43 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "snow_depth_water_equivalent_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_depth_water_equivalent_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_evaporation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snow_evaporation_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "snow_evaporation_sum": {
             "offset": 0.0,
             "scale": 1.0
         },
+        "snowfall_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snowfall_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "snowfall_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snowmelt_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "snowmelt_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2756,7 +2972,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "soil_temperature_level_1_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_1_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "soil_temperature_level_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_2_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_2_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2764,7 +2996,31 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "soil_temperature_level_3_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_3_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "soil_temperature_level_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_4_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_temperature_level_4_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sub_surface_runoff_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sub_surface_runoff_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2772,11 +3028,35 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "surface_latent_heat_flux_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_latent_heat_flux_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "surface_latent_heat_flux_sum": {
             "offset": 0.0,
             "scale": 1.0
         },
+        "surface_net_solar_radiation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_net_solar_radiation_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "surface_net_solar_radiation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_net_thermal_radiation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_net_thermal_radiation_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2788,7 +3068,31 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "surface_pressure_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_pressure_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_runoff_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_runoff_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "surface_runoff_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_sensible_heat_flux_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_sensible_heat_flux_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2796,7 +3100,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "surface_solar_radiation_downwards_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_solar_radiation_downwards_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "surface_solar_radiation_downwards_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_thermal_radiation_downwards_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_thermal_radiation_downwards_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2808,11 +3128,43 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "temperature_2m_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "temperature_2m_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "temperature_of_snow_layer": {
             "offset": 0.0,
             "scale": 1.0
         },
+        "temperature_of_snow_layer_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "temperature_of_snow_layer_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_evaporation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_evaporation_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "total_evaporation_sum": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_precipitation_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_precipitation_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2824,7 +3176,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "u_component_of_wind_10m_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "u_component_of_wind_10m_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "v_component_of_wind_10m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "v_component_of_wind_10m_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "v_component_of_wind_10m_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2832,7 +3200,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "volumetric_soil_water_layer_1_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_1_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "volumetric_soil_water_layer_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_2_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_2_min": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -2840,7 +3224,23 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "volumetric_soil_water_layer_3_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_3_min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "volumetric_soil_water_layer_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_4_max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "volumetric_soil_water_layer_4_min": {
             "offset": 0.0,
             "scale": 1.0
         }
