@@ -31073,6 +31073,60 @@
             "scale": 1.0
         }
     },
+    "UMD/hansen/global_forest_change_2022_v1_10": {
+        "datamask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b40": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b50": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "first_b70": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "gain": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b40": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b50": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "last_b70": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "loss": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lossyear": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "treecover2000": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "UMN/PGC/ArcticDEM/V2/2m": {
         "elevation": {
             "offset": 0.0,
