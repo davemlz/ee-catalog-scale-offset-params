@@ -29557,20 +29557,6 @@
             "scale": 1.0
         }
     },
-    "ORTHO/Switzerland/SWISSIMAGE/10cm": {
-        "B": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "G": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "R": {
-            "offset": 0.0,
-            "scale": 1.0
-        }
-    },
     "OSU/GIMP/2000_ICE_OCEAN_MASK": {
         "ice_mask": {
             "offset": 0.0,
@@ -30420,6 +30406,20 @@
         }
     },
     "Spain/PNOA/PNOA10": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "Switzerland/SWISSIMAGE/orthos/10cm": {
         "B": {
             "offset": 0.0,
             "scale": 1.0
