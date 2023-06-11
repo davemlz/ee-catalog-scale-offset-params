@@ -21489,6 +21489,44 @@
             "scale": 0.0001
         }
     },
+    "MODIS/061/MOD10A1": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDSI_Snow_Cover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDSI_Snow_Cover_Algorithm_Flags_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDSI_Snow_Cover_Basic_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDSI_Snow_Cover_Class": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Snow_Albedo_Daily_Tile": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Snow_Albedo_Daily_Tile_Class": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "granule_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbit_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MOD11A1": {
         "Clear_day_cov": {
             "offset": 0.0,
@@ -22459,6 +22497,44 @@
         "sur_refl_b02": {
             "offset": 0.0,
             "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD10A1": {
+        "NDSI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDSI_Snow_Cover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDSI_Snow_Cover_Algorithm_Flags_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDSI_Snow_Cover_Basic_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDSI_Snow_Cover_Class": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Snow_Albedo_Daily_Tile": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Snow_Albedo_Daily_Tile_Class": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "granule_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbit_pnt": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "MODIS/061/MYD11A1": {
