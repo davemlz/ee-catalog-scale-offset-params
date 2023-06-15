@@ -32385,6 +32385,12 @@
             "scale": 1.0
         }
     },
+    "USGS/NLCD_RELEASES/2020_REL/NALCMS": {
+        "landcover": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USGS/SRTMGL1_003": {
         "elevation": {
             "offset": 0.0,
