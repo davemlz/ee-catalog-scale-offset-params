@@ -22855,6 +22855,20 @@
             "scale": 0.1
         }
     },
+    "MODIS/061/MYD17A2H": {
+        "Gpp": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "PsnNet": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Psn_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MYD17A3HGF": {
         "Gpp": {
             "offset": 0.0,
