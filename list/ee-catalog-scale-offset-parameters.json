@@ -8321,6 +8321,12 @@
             "scale": 1.0
         }
     },
+    "JRC/GHSL/P2023A/GHS_POP": {
+        "population_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GSW1_0/GlobalSurfaceWater": {
         "change_abs": {
             "offset": 0.0,
