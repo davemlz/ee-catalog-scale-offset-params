@@ -5621,6 +5621,22 @@
             "scale": 1.0
         }
     },
+    "ESA/WorldCereal/2021/MARKERS/v100": {
+        "classification": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "ESA/WorldCereal/2021/MODELS/v100": {
+        "classification": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "confidence": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "ESA/WorldCover/v100": {
         "Map": {
             "offset": 0.0,
