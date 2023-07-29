@@ -8343,6 +8343,12 @@
             "scale": 1.0
         }
     },
+    "JRC/GHSL/P2023A/GHS_SMOD": {
+        "smod_code": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GSW1_0/GlobalSurfaceWater": {
         "change_abs": {
             "offset": 0.0,
