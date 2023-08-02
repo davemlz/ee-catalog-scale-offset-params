@@ -31635,12 +31635,6 @@
             "scale": 1.0
         }
     },
-    "UMT/Climate/IrrMapper_RF/v1_0": {
-        "classification": {
-            "offset": 0.0,
-            "scale": 1.0
-        }
-    },
     "UMT/NTSG/v2/LANDSAT/GPP": {
         "GPP": {
             "offset": 0.0,
