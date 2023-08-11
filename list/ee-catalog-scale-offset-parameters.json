@@ -23825,6 +23825,552 @@
             "scale": 1.0
         }
     },
+    "NASA/GEOS-CF/v1/fcst/tavg1hr": {
+        "ACET": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ALD2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ALK4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_BC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_CLOUD": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DST1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DST2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DST3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DST4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DST5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DST6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DST7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_DUST": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_OC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_SALA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_SALC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "AOD550_SULFATE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCPI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BCPO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BENZ": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "C2H6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "C3H8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CH4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CLDTT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_BCPI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_BCPO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_DST1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_DST2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_DST3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_DST4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_HCHO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_HNO3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_NH3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_NH4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_NIT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_NO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_O3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_OCPI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_OCPO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_SALA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYDEPFLX_SALC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DST1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DST2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DST3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DST4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EOH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "H2O2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HCHO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HNO3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "HNO4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ISOP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MACR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MEK": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MVK": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "N2O5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NH3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NH4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NOy": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "O3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCPI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "OCPO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PAN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PHIS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25_RH35_GOCART": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25bc_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25du_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25ni_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25oc_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25soa_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25ss_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PM25su_RH35_GCC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PRPE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "PS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Q2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RCHO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RH": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SALA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SALC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SLP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SOAP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SOAS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "T2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOLU": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTCOL_BrO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTCOL_CO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTCOL_HCHO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTCOL_IO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTCOL_NO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTCOL_O3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TOTCOL_SO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TPREC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPCOL_BrO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPCOL_CO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPCOL_HCHO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPCOL_IO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPCOL_NO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPCOL_O3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPCOL_SO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TROPPB": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "U2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V10M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "V2M": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_BCPI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_BCPO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_DST1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_DST2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_DST3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_DST4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_HCHO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_HNO3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_NH3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_NH4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_NIT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_OCPI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_OCPO": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_SALA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_SALC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_SO2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WETDEPFLX_SO4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "XYLE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ZL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ZPBL": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GEOS-CF/v1/rpl/htf": {
         "CO": {
             "offset": 0.0,
