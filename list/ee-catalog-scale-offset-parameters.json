@@ -8337,6 +8337,12 @@
             "scale": 1.0
         }
     },
+    "JRC/GHSL/P2023A/GHS_BUILT_S": {
+        "built_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GHSL/P2023A/GHS_POP": {
         "population_count": {
             "offset": 0.0,
@@ -32177,6 +32183,12 @@
     },
     "UMN/PGC/REMA/V1_1/8m": {
         "elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "UMT/Climate/IrrMapper_RF/v1_1": {
+        "classification": {
             "offset": 0.0,
             "scale": 1.0
         }
