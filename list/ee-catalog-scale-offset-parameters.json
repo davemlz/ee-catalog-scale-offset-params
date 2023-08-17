@@ -8337,6 +8337,12 @@
             "scale": 1.0
         }
     },
+    "JRC/GHSL/P2023A/GHS_BUILT_H": {
+        "built_height": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GHSL/P2023A/GHS_BUILT_S": {
         "built_surface": {
             "offset": 0.0,
@@ -30351,6 +30357,20 @@
     },
     "NRCan/CDEM": {
         "elevation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "Netherlands/Beeldmateriaal/LUCHTFOTO_RGB": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
             "offset": 0.0,
             "scale": 1.0
         }
