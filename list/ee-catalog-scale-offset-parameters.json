@@ -8289,6 +8289,16 @@
             "scale": 1.0
         }
     },
+    "JRC/GHSL/P2023A/GHS_BUILT_V": {
+        "built_volume_nres": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "built_volume_total": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GHSL/P2023A/GHS_POP": {
         "population_count": {
             "offset": 0.0,
