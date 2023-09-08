@@ -20541,6 +20541,104 @@
             "scale": 1.0
         }
     },
+    "MODIS/061/MCD19A1_GRANULES": {
+        "Fg": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Fv": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Glint_Angle": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "RelAZ": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SAZ": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "Scattering_Angle": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "Sigma_BRFn1": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sigma_BRFn2": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Status_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Sur_refl1": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl10": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl11": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl12": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl2": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl3": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl4": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl5": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl6": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl7": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl8": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "Sur_refl9": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "VAZ": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "cosSZA": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "cosVZA": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
     "MODIS/061/MCD19A2_GRANULES": {
         "AOD_QA": {
             "offset": 0.0,
