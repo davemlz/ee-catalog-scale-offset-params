@@ -21815,6 +21815,52 @@
             "scale": 0.0001
         }
     },
+    "MODIS/061/MOD13A3": {
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "RelativeAzimuth": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ViewZenith": {
+            "offset": 0.0,
+            "scale": 0.01
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 0.0001
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 0.0001
+        }
+    },
     "MODIS/061/MOD13Q1": {
         "DayOfYear": {
             "offset": 0.0,
