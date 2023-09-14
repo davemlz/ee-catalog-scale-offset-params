@@ -33421,6 +33421,40 @@
             "scale": 1.0
         }
     },
+    "USGS/NLCD_RELEASES/2021_REL/NLCD": {
+        "impervious": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "impervious_descriptor": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "landcover": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "science_products_forest_disturbance_date": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "science_products_land_cover_change_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "science_products_land_cover_change_first_disturbance_date": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "science_products_land_cover_change_index": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "science_products_land_cover_science_product": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USGS/SRTMGL1_003": {
         "elevation": {
             "offset": 0.0,
