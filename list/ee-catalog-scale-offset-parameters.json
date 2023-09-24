@@ -239,6 +239,30 @@
             "scale": 1.0
         }
     },
+    "CIESIN/GPWv411/GPW_Population_Count": {
+        "population_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_Population_Density": {
+        "population_density": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_UNWPP-Adjusted_Population_Count": {
+        "unwpp-adjusted_population_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_UNWPP-Adjusted_Population_Density": {
+        "unwpp-adjusted_population_density": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "COPERNICUS/CORINE/V18_5_1/100m": {
         "landcover": {
             "offset": 0.0,
