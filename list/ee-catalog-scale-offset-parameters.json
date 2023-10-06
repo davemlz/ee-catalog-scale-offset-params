@@ -245,6 +245,30 @@
             "scale": 1.0
         }
     },
+    "CIESIN/GPWv411/GPW_Data_Context": {
+        "data_context": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_Land_Area": {
+        "land_area": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_Mean_Administrative_Unit_Area": {
+        "mean_administrative_unit_area": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_National_Identifier_Grid": {
+        "national_identifier_grid": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "CIESIN/GPWv411/GPW_Population_Count": {
         "population_count": {
             "offset": 0.0,
@@ -265,6 +289,18 @@
     },
     "CIESIN/GPWv411/GPW_UNWPP-Adjusted_Population_Density": {
         "unwpp-adjusted_population_density": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_Water_Area": {
+        "water_area": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "CIESIN/GPWv411/GPW_Water_Mask": {
+        "water_mask": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -5883,6 +5919,16 @@
             "scale": 1.0
         },
         "jrc_perm_water": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED": {
+        "cs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cs_cdf": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -34611,6 +34657,24 @@
         "R": {
             "offset": 0.0,
             "scale": 0.0001
+        }
+    },
+    "projects/sat-io/open-datasets/GLOBathy/GLOBathy_bathymetry": {
+        "b1": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/sat-io/open-datasets/ORNL/LANDSCAN_GLOBAL": {
+        "b1": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/sat-io/open-datasets/us-drought-monitor": {
+        "b1": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     }
 }
