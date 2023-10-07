@@ -34587,6 +34587,24 @@
             "scale": 1.0
         }
     },
+    "projects/geoscience-aus-cat/assets/NIDEM": {
+        "nidem": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nidem_mask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nidem_uncertainty": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nidem_unfiltered": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "projects/ngis-cat/assets/DEA/NIDEM": {
         "nidem": {
             "offset": 0.0,
