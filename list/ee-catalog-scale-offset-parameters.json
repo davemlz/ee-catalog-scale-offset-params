@@ -8281,6 +8281,28 @@
             "scale": 1.0
         }
     },
+    "JAXA/GPM_L3/GSMaP/v7/operational": {
+        "gaugeQualityInfo": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "hourlyPrecipRate": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "hourlyPrecipRateGC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "observationTimeFlag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "satelliteInfoFlag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JCU/Murray/GIC/global_tidal_wetland_change/2019": {
         "gain": {
             "offset": 0.0,
@@ -34601,6 +34623,194 @@
             "scale": 1.0
         },
         "nidem_unfiltered": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/geoscience-aus-cat/assets/ga_landcover": {
+        "baregrad_phy_cat_l4d": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "canopyco_veg_cat_l4d": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "inttidal_wat_cat_l4a": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level3_B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level3_G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level3_R": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level4_B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level4_G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "level4_R": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lifeform_veg_cat_l4a": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "waterper_wat_cat_l4d": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "watersea_veg_cat_l4a": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "waterstt_wat_cat_l4a": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/geoscience-aus-cat/assets/geomedians_LS5": {
+        "Bray_Curtis_dissimilarity_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Euclidean_distance_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "blue": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "green": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "near_infrared": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "red": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shortwave_infrared_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shortwave_infrared_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "spectral_distance_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/geoscience-aus-cat/assets/geomedians_LS7": {
+        "Bray_Curtis_dissimilarity_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Euclidean_distance_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "blue": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "green": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "near_infrared": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "red": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shortwave_infrared_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shortwave_infrared_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "spectral_distance_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/geoscience-aus-cat/assets/geomedians_LS8": {
+        "Bray_Curtis_dissimilarity_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Euclidean_distance_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "blue": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "green": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "near_infrared": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "red": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shortwave_infrared_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shortwave_infrared_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "spectral_distance_median_absolute_deviation": {
             "offset": 0.0,
             "scale": 1.0
         }
