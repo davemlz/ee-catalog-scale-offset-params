@@ -8303,6 +8303,28 @@
             "scale": 1.0
         }
     },
+    "JAXA/GPM_L3/GSMaP/v8/operational": {
+        "gaugeQualityInfo": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "hourlyPrecipRate": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "hourlyPrecipRateGC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "observationTimeFlag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "satelliteInfoFlag": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JCU/Murray/GIC/global_tidal_wetland_change/2019": {
         "gain": {
             "offset": 0.0,
