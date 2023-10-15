@@ -26687,6 +26687,68 @@
             "scale": 1.0
         }
     },
+    "NASA/HLS/HLSL30/v002": {
+        "B1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Band10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Band11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Fmask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VAA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VZA": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/JPL/global_forest_canopy_height_2005": {
         "1": {
             "offset": 0.0,
