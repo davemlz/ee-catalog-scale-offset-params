@@ -20627,6 +20627,56 @@
             "scale": 0.1
         }
     },
+    "MODIS/061/MCD18A1": {
+        "DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DSR_Quality": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Diffuse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Direct": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_0000_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_0300_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_0600_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_0900_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_1200_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_1500_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_1800_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GMT_2100_DSR": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MCD18C2": {
         "GMT_0000_PAR": {
             "offset": 0.0,
