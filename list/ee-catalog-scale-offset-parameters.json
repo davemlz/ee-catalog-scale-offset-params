@@ -22157,6 +22157,28 @@
             "scale": 10000
         }
     },
+    "MODIS/061/MOD16A2GF": {
+        "ET": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "ET_QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LE": {
+            "offset": 0.0,
+            "scale": 10000
+        },
+        "PET": {
+            "offset": 0.0,
+            "scale": 0.1
+        },
+        "PLE": {
+            "offset": 0.0,
+            "scale": 10000
+        }
+    },
     "MODIS/061/MOD17A2H": {
         "Gpp": {
             "offset": 0.0,
