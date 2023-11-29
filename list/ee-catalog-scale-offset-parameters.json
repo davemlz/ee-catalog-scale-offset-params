@@ -31689,6 +31689,20 @@
             "scale": 1.0
         }
     },
+    "RUB/RUBCLIM/LCZ/global_lcz_map/latest": {
+        "LCZ": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LCZ_Filter": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LCZ_Probability": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "RUB/RUBCLIM/LCZ/global_lcz_map/v1": {
         "LCZ": {
             "offset": 0.0,
