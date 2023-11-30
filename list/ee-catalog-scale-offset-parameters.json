@@ -20445,6 +20445,44 @@
             "scale": 0.0001
         }
     },
+    "MODIS/061/MCD12C1": {
+        "Majority_Land_Cover_Type_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_1_Assessment": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_1_Percent": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_2_Assessment": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_2_Percent": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_3_Assessment": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Majority_Land_Cover_Type_3_Percent": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MCD12Q1": {
         "LC_Prop1": {
             "offset": 0.0,
