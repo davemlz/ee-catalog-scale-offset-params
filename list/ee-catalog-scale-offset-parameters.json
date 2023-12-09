@@ -8365,6 +8365,12 @@
             "scale": 1.0
         }
     },
+    "JRC/GFC2020/V1": {
+        "Map": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GHSL/P2016/BUILT_LDSMT_GLOBE_V1": {
         "built": {
             "offset": 0.0,
