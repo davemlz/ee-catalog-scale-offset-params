@@ -39255,6 +39255,96 @@
             "scale": 1.0
         }
     },
+    "USFS/GTAC/TreeMap/v2016": {
+        "ALSTK": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BALIVE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CANOPYPCT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CARBON_D": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CARBON_DWN": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CARBON_L": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYBIO_D": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DRYBIO_L": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FLDSZCD": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FLDTYPCD": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FORTYPCD": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GSSTK": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QMD_RMRS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SDIPCT_RMRS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "STANDHT": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "STDSZCD": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TPA_DEAD": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TPA_LIVE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VOLBFNET_L": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VOLCFNET_D": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VOLCFNET_L": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Value": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USGS/3DEP/10m": {
         "elevation": {
             "offset": 0.0,
