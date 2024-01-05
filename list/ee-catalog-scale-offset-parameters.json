@@ -1785,6 +1785,200 @@
             "scale": 1.0
         }
     },
+    "CSIC/SPEI/2_9": {
+        "SPEI_01_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_02_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_03_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_04_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_05_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_06_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_07_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_08_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_09_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_10_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_11_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_12_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_13_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_14_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_15_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_16_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_17_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_18_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_19_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_20_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_21_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_22_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_23_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_24_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_25_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_26_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_27_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_28_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_29_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_30_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_31_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_32_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_33_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_34_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_35_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_36_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_37_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_38_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_39_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_40_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_41_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_42_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_43_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_44_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_45_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_46_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_47_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SPEI_48_month": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "CSIRO/SLGA": {
         "AWC_000_005_05": {
             "offset": 0.0,
@@ -36331,62 +36525,62 @@
     },
     "NOAA/VIIRS/001/VNP21A1D": {
         "Emis_14": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_15": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_16": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "LST_1KM": {
             "offset": 0.0,
-            "scale": 0.02
+            "scale": 1.0
         },
         "QC": {
             "offset": 0.0,
             "scale": 1.0
         },
         "View_Angle": {
-            "offset": -65,
+            "offset": 0.0,
             "scale": 1.0
         },
         "View_Time": {
             "offset": 0.0,
-            "scale": 0.1
+            "scale": 1.0
         }
     },
     "NOAA/VIIRS/001/VNP21A1N": {
         "Emis_14": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_15": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_16": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "LST_1KM": {
             "offset": 0.0,
-            "scale": 0.02
+            "scale": 1.0
         },
         "QC": {
             "offset": 0.0,
             "scale": 1.0
         },
         "View_Angle": {
-            "offset": -65,
+            "offset": 0.0,
             "scale": 1.0
         },
         "View_Time": {
             "offset": 0.0,
-            "scale": 0.1
+            "scale": 1.0
         }
     },
     "NOAA/VIIRS/001/VNP22Q2": {
