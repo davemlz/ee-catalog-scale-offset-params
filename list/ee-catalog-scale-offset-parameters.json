@@ -22269,6 +22269,60 @@
             "scale": 0.0001
         }
     },
+    "MODIS/061/MOD13C1": {
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVIStdDev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDVIStdDev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Pixel_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Pixel_30deg_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MOD13Q1": {
         "DayOfYear": {
             "offset": 0.0,
@@ -23359,6 +23413,60 @@
         "sur_refl_b07": {
             "offset": 0.0,
             "scale": 0.0001
+        }
+    },
+    "MODIS/061/MYD13C1": {
+        "DetailedQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVIStdDev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDVIStdDev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Pixel_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Pixel_30deg_1km": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SolarZenith": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SummaryQA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b01": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b02": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b03": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sur_refl_b07": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "MODIS/061/MYD13Q1": {
