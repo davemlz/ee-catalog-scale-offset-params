@@ -8237,6 +8237,12 @@
             "scale": 1.0
         }
     },
+    "JAXA/ALOS/PALSAR-2/Level2_1/StripMap_202401": {
+        "HH": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JAXA/ALOS/PALSAR-2/Level2_2/ScanSAR": {
         "HH": {
             "offset": 0.0,
