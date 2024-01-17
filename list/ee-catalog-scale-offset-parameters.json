@@ -8238,7 +8238,7 @@
         }
     },
     "JAXA/ALOS/PALSAR-2/Level2_1/StripMap_202401": {
-        "HH": {
+        "b1": {
             "offset": 0.0,
             "scale": 1.0
         }
