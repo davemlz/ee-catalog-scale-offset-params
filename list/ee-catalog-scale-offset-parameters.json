@@ -8613,6 +8613,10 @@
         "built_surface": {
             "offset": 0.0,
             "scale": 1.0
+        },
+        "built_surface_nres": {
+            "offset": 0.0,
+            "scale": 1.0
         }
     },
     "JRC/GHSL/P2023A/GHS_BUILT_V": {
