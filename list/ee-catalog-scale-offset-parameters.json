@@ -33981,6 +33981,12 @@
             "scale": 1.0
         }
     },
+    "NOAA/CDR/AVHRR/AOT/V4": {
+        "aot": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/CDR/AVHRR/LAI_FAPAR/V4": {
         "FAPAR": {
             "offset": 0.0,
