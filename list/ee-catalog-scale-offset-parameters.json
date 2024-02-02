@@ -39723,6 +39723,36 @@
             "scale": 1.0
         }
     },
+    "USGS/GMTED2010_FULL": {
+        "be75": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "dsc": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "max": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "mea": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "med": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "min": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "std": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USGS/GTOPO30": {
         "elevation": {
             "offset": 0.0,
