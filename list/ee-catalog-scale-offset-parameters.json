@@ -38373,6 +38373,20 @@
             "scale": 1.0
         }
     },
+    "UK/EA/ENGLAND_1M_TERRAIN/2022": {
+        "dsm_first": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "dsm_last": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "dtm": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "UMD/GLAD/PRIMARY_HUMID_TROPICAL_FORESTS/v1": {
         "Primary_HT_forests": {
             "offset": 0.0,
