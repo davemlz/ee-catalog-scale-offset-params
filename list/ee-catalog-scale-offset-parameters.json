@@ -4993,6 +4993,12 @@
             "scale": 1.0
         }
     },
+    "EDF/MethaneSAT/MethaneAIR/methaneair-L4area-2021": {
+        "flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "EO1/HYPERION": {
         "B008": {
             "offset": 0.0,
@@ -33241,6 +33247,74 @@
             "scale": 1.0
         }
     },
+    "NASA/LANCE/NOAA20_VIIRS/C2": {
+        "Bright_ti4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Bright_ti5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DayNight": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "acq_epoch": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "acq_time": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "confidence": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "frp": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "line_number": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/LANCE/SNPP_VIIRS/C2": {
+        "Bright_ti4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Bright_ti5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DayNight": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "acq_epoch": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "acq_time": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "confidence": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "frp": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "line_number": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/MEASURES/GFCC/TC/v3": {
         "source_index": {
             "offset": 0.0,
@@ -33622,6 +33696,72 @@
         }
     },
     "NASA/SMAP/SPL3SMP_E/005": {
+        "retrieval_qual_flag_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "retrieval_qual_flag_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_moisture_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_moisture_am_anomaly": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_moisture_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "soil_moisture_pm_anomaly": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_h_corrected_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_h_corrected_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_h_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_h_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_v_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_qual_flag_v_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_v_corrected_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tb_v_corrected_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "vegetation_water_content_am": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "vegetation_water_content_pm": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/SMAP/SPL3SMP_E/006": {
         "retrieval_qual_flag_am": {
             "offset": 0.0,
             "scale": 1.0
