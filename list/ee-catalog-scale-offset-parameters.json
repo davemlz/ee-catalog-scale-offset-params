@@ -40320,22 +40320,6 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "shrub_height_break_point": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "shrub_height_linear_model_pvalue": {
-            "offset": 0.0,
-            "scale": 0.01
-        },
-        "shrub_height_linear_model_slope": {
-            "offset": 0.0,
-            "scale": 0.01
-        },
-        "shrub_height_most_recent_break_point": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
         "shrub_linear_model_pvalue": {
             "offset": 0.0,
             "scale": 0.01
@@ -40457,18 +40441,6 @@
         "shrub_break_point": {
             "offset": 0.0,
             "scale": 1.0
-        },
-        "shrub_height_break_point": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "shrub_height_segment_pvalue": {
-            "offset": 0.0,
-            "scale": 0.01
-        },
-        "shrub_height_segment_slope": {
-            "offset": 0.0,
-            "scale": 0.01
         },
         "shrub_segment_pvalue": {
             "offset": 0.0,
