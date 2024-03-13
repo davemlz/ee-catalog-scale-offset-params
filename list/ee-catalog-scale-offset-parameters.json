@@ -24329,6 +24329,18 @@
             "scale": 0.01
         }
     },
+    "NASA/EMIT/L2B/CH4ENH": {
+        "vertical_column_enhancement": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/EMIT/L2B/CH4PLM": {
+        "methane_plume_complex": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/FLDAS/NOAH01/C/GL/M/V001": {
         "Evap_tavg": {
             "offset": 0.0,
