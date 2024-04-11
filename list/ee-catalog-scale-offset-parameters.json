@@ -41343,6 +41343,12 @@
             "scale": 0.1
         }
     },
+    "WRI/Aqueduct_Flood_Hazard_Maps/V2": {
+        "inundation_depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "WRI/GFW/FORMA/alerts": {
         "alert_date": {
             "offset": 0.0,
