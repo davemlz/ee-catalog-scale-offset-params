@@ -8625,6 +8625,16 @@
             "scale": 1.0
         }
     },
+    "JRC/GHSL/P2023A/GHS_BUILT_S_10m": {
+        "built_surface": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "built_surface_nres": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GHSL/P2023A/GHS_BUILT_V": {
         "built_volume_nres": {
             "offset": 0.0,
@@ -26203,6 +26213,32 @@
             "scale": 1.0
         },
         "lwe_thickness_jpl": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/GRACE/MASS_GRIDS_V04/LAND": {
+        "lwe_thickness_csr": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lwe_thickness_gfz": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "lwe_thickness_jpl": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "uncertainty_csr": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "uncertainty_gfz": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "uncertainty_jpl": {
             "offset": 0.0,
             "scale": 1.0
         }
