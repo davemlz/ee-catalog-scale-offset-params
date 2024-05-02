@@ -26217,6 +26217,26 @@
             "scale": 1.0
         }
     },
+    "NASA/GRACE/MASS_GRIDS_V03/MASCON": {
+        "lwe_thickness": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "uncertainty": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/GRACE/MASS_GRIDS_V03/MASCON_CRI": {
+        "lwe_thickness": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "uncertainty": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GRACE/MASS_GRIDS_V04/LAND": {
         "lwe_thickness_csr": {
             "offset": 0.0,
