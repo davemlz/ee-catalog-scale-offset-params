@@ -6175,6 +6175,112 @@
             "scale": 1.0
         }
     },
+    "GOOGLE/GLOBAL_CCDC/V1": {
+        "BLUE_coefs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BLUE_magnitude": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "BLUE_rmse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GREEN_coefs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GREEN_magnitude": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "GREEN_rmse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIR_coefs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIR_magnitude": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIR_rmse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RED_coefs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RED_magnitude": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RED_rmse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR1_coefs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR1_magnitude": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR1_rmse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR2_coefs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR2_magnitude": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR2_rmse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TEMP_coefs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TEMP_magnitude": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "TEMP_rmse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "changeProb": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "numObs": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tBreak": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tEnd": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tStart": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "GRIDMET/DROUGHT": {
         "eddi14d": {
             "offset": 0.0,
