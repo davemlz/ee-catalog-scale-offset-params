@@ -42205,6 +42205,12 @@
             "scale": 1.0
         }
     },
+    "projects/forestdatapartnership/assets/community_palm/20240312": {
+        "probability": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "projects/geoscience-aus-cat/assets/NIDEM": {
         "nidem": {
             "offset": 0.0,
