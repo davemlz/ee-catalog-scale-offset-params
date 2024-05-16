@@ -20778,15 +20778,179 @@
         }
     },
     "MODIS/061/MCD12C1": {
+        "Land_Cover_Type_1_Percent_Class_0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_1_Percent_Class_9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_2_Percent_Class_9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Land_Cover_Type_3_Percent_Class_9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "Majority_Land_Cover_Type_1": {
             "offset": 0.0,
             "scale": 1.0
         },
         "Majority_Land_Cover_Type_1_Assessment": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "Majority_Land_Cover_Type_1_Percent": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -20798,19 +20962,11 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Majority_Land_Cover_Type_2_Percent": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
         "Majority_Land_Cover_Type_3": {
             "offset": 0.0,
             "scale": 1.0
         },
         "Majority_Land_Cover_Type_3_Assessment": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "Majority_Land_Cover_Type_3_Percent": {
             "offset": 0.0,
             "scale": 1.0
         }
