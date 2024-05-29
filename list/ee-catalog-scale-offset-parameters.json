@@ -32373,6 +32373,28 @@
             "scale": 1.0
         }
     },
+    "NASA/GPM_L3/IMERG_MONTHLY_V07": {
+        "gaugeRelativeWeighting": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "precipitation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "precipitationQualityIndex": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "probabilityLiquidPrecipitation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "randomError": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GPM_L3/IMERG_V06": {
         "HQobservationTime": {
             "offset": 0.0,
