@@ -28026,23 +28026,23 @@
     "MODIS/061/MOD09CMG": {
         "Coarse_Resolution_Band_3_Path_Radiance": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 1.0
         },
         "Coarse_Resolution_Brightness_Temperature_Band_20": {
             "offset": 0.0,
-            "scale": 0.01
+            "scale": 1.0
         },
         "Coarse_Resolution_Brightness_Temperature_Band_21": {
             "offset": 0.0,
-            "scale": 0.01
+            "scale": 1.0
         },
         "Coarse_Resolution_Brightness_Temperature_Band_31": {
             "offset": 0.0,
-            "scale": 0.01
+            "scale": 1.0
         },
         "Coarse_Resolution_Brightness_Temperature_Band_32": {
             "offset": 0.0,
-            "scale": 0.01
+            "scale": 1.0
         },
         "Coarse_Resolution_Granule_Time": {
             "offset": 0.0,
@@ -28058,7 +28058,7 @@
         },
         "Coarse_Resolution_Ozone": {
             "offset": 0.0,
-            "scale": 0.0025
+            "scale": 1.0
         },
         "Coarse_Resolution_QA": {
             "offset": 0.0,
@@ -28066,11 +28066,11 @@
         },
         "Coarse_Resolution_Relative_Azimuth_Angle": {
             "offset": 0.0,
-            "scale": 0.01
+            "scale": 1.0
         },
         "Coarse_Resolution_Solar_Zenith_Angle": {
             "offset": 0.0,
-            "scale": 0.01
+            "scale": 1.0
         },
         "Coarse_Resolution_State_QA": {
             "offset": 0.0,
@@ -28078,23 +28078,23 @@
         },
         "Coarse_Resolution_Surface_Reflectance_Band_1": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 1.0
         },
         "Coarse_Resolution_Surface_Reflectance_Band_2": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 1.0
         },
         "Coarse_Resolution_Surface_Reflectance_Band_3": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 1.0
         },
         "Coarse_Resolution_Surface_Reflectance_Band_4": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 1.0
         },
         "Coarse_Resolution_Surface_Reflectance_Band_5": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 1.0
         },
         "Coarse_Resolution_Surface_Reflectance_Band_6": {
             "offset": 0.0,
@@ -28102,11 +28102,11 @@
         },
         "Coarse_Resolution_Surface_Reflectance_Band_7": {
             "offset": 0.0,
-            "scale": 0.0001
+            "scale": 1.0
         },
         "Coarse_Resolution_View_Zenith_Angle": {
             "offset": 0.0,
-            "scale": 0.01
+            "scale": 1.0
         },
         "n_pixels_averaged": {
             "offset": 0.0,
