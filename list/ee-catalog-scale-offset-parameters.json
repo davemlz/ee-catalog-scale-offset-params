@@ -29271,6 +29271,108 @@
             "scale": 0.0001
         }
     },
+    "MODIS/061/MYD09CMG": {
+        "Coarse_Resolution_Band_3_Path_Radiance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Brightness_Temperature_Band_20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Brightness_Temperature_Band_21": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Brightness_Temperature_Band_31": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Brightness_Temperature_Band_32": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Granule_Time": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Internal_CM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Number_Mapping": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Ozone": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Relative_Azimuth_Angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Solar_Zenith_Angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_State_QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Surface_Reflectance_Band_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Surface_Reflectance_Band_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Surface_Reflectance_Band_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Surface_Reflectance_Band_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Surface_Reflectance_Band_5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Surface_Reflectance_Band_6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_Surface_Reflectance_Band_7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Coarse_Resolution_View_Zenith_Angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "n_pixels_averaged": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "number_of_250m_pixels_averaged_b1-2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "number_of_500m_pixels_averaged_b3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "number_of_500m_rej_detector": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "MODIS/061/MYD09GA": {
         "QC_500m": {
             "offset": 0.0,
