@@ -43561,19 +43561,19 @@
     },
     "NOAA/VIIRS/001/VNP46A1": {
         "BrightnessTemperature_M12": {
-            "offset": 0.0,
+            "offset": 203,
             "scale": 1.0
         },
         "BrightnessTemperature_M13": {
-            "offset": 0.0,
+            "offset": 203,
             "scale": 1.0
         },
         "BrightnessTemperature_M15": {
-            "offset": 0.0,
+            "offset": 111,
             "scale": 1.0
         },
         "BrightnessTemperature_M16": {
-            "offset": 0.0,
+            "offset": 103,
             "scale": 1.0
         },
         "DNB_At_Sensor_Radiance_500m": {
@@ -43637,11 +43637,11 @@
             "scale": 1.0
         },
         "Radiance_M10": {
-            "offset": 0.0,
+            "offset": -0.04,
             "scale": 1.0
         },
         "Radiance_M11": {
-            "offset": 0.0,
+            "offset": -0.02,
             "scale": 1.0
         },
         "Sensor_Azimuth": {
