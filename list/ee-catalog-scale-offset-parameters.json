@@ -15183,6 +15183,36 @@
             "scale": 1.0
         }
     },
+    "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_NBR": {
+        "NBRT": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/GLS1975": {
         "10": {
             "offset": 0.0,
