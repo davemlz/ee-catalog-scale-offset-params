@@ -139,6 +139,12 @@
             "scale": 1.0
         }
     },
+    "CANADA/NFIS/NTEMS/CA_FOREST_AGE": {
+        "forest": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "CAS/IGSNRR/PML/V2": {
         "ET_water": {
             "offset": 0.0,
@@ -15183,6 +15189,36 @@
             "scale": 1.0
         }
     },
+    "LANDSAT/COMPOSITES/C02/T1_L2_32DAY_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_32DAY_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_32DAY_NBR": {
+        "NBRT": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_32DAY_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_32DAY_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_BAI": {
         "BAI": {
             "offset": 0.0,
@@ -15208,6 +15244,36 @@
         }
     },
     "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_NDWI": {
+        "NDWI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_ANNUAL_BAI": {
+        "BAI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_ANNUAL_EVI": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_ANNUAL_NBR": {
+        "NBRT": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_ANNUAL_NDVI": {
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LANDSAT/COMPOSITES/C02/T1_L2_ANNUAL_NDWI": {
         "NDWI": {
             "offset": 0.0,
             "scale": 1.0
