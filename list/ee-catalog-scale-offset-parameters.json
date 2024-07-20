@@ -43587,6 +43587,12 @@
             "scale": 1.0
         }
     },
+    "projects/neon-prod-earthengine/assets/CHM/001": {
+        "CHM": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "projects/ngis-cat/assets/DEA/NIDEM": {
         "nidem": {
             "offset": 0.0,
