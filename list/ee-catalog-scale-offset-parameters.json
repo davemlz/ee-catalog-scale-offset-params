@@ -564,6 +564,18 @@
             "offset": 0.0,
             "scale": 0.0001
         },
+        "MSK_CLASSI_CIRRUS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_OPAQUE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_SNOW_ICE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "QA10": {
             "offset": 0.0,
             "scale": 1.0
@@ -636,6 +648,18 @@
             "offset": 0.0,
             "scale": 0.0001
         },
+        "MSK_CLASSI_CIRRUS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_OPAQUE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_SNOW_ICE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "QA10": {
             "offset": 0.0,
             "scale": 1.0
@@ -701,6 +725,18 @@
         "B9": {
             "offset": 0.0,
             "scale": 0.0001
+        },
+        "MSK_CLASSI_CIRRUS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_OPAQUE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_SNOW_ICE": {
+            "offset": 0.0,
+            "scale": 1.0
         },
         "MSK_CLDPRB": {
             "offset": 0.0,
@@ -795,6 +831,18 @@
         "B9": {
             "offset": 0.0,
             "scale": 0.0001
+        },
+        "MSK_CLASSI_CIRRUS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_OPAQUE": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MSK_CLASSI_SNOW_ICE": {
+            "offset": 0.0,
+            "scale": 1.0
         },
         "MSK_CLDPRB": {
             "offset": 0.0,
