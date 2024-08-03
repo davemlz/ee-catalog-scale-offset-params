@@ -28533,6 +28533,44 @@
             "scale": 1.0
         }
     },
+    "NASA/GPM_L3/IMERG_V07": {
+        "IRinfluence": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "IRprecipitation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MWobservationTime": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MWprecipSource": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MWprecipitation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "precipitation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "precipitationUncal": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "probabilityLiquidPrecipitation": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "randomError": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/GRACE/MASS_GRIDS/LAND": {
         "lwe_thickness_csr": {
             "offset": 0.0,
