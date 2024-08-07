@@ -36633,6 +36633,28 @@
             "scale": 1.0
         }
     },
+    "NASA/VIIRS/002/VNP09H1": {
+        "SurfReflect_I1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_I2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_I3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_QC_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SurfReflect_State_500m": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA_USDA/HSL/SMAP10KM_soil_moisture": {
         "smp": {
             "offset": 0.0,
