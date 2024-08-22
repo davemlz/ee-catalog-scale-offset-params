@@ -36677,6 +36677,72 @@
             "scale": 1.0
         }
     },
+    "NASA/VIIRS/002/VNP13A1": {
+        "EVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "EVI2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NDVI": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "NIR_reflectance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR1_reflectance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR2_reflectance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "SWIR3_reflectance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "VI_Quality": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "blue_reflectance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "composite_day_of_the_year": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "green_reflectance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "pixel_reliability": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "red_reflectance": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "relative_azimuth_angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sun_zenith_angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "view_zenith_angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NASA/VIIRS/002/VNP15A2H": {
         "Fpar": {
             "offset": 0.0,
@@ -36699,6 +36765,66 @@
             "scale": 1.0
         },
         "LaiStdDev": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/VIIRS/002/VNP21A1D": {
+        "Emis_14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Emis_15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Emis_16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LST_1KM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "View_Angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "View_Time": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/VIIRS/002/VNP21A1N": {
+        "Emis_14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Emis_15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Emis_16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "LST_1KM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QC": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "View_Angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "View_Time": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -44949,6 +45075,3570 @@
     },
     "projects/neon-prod-earthengine/assets/CHM/001": {
         "CHM": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/neon-prod-earthengine/assets/DEM/001": {
+        "DSM": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "DTM": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/neon-prod-earthengine/assets/HSI_REFL/001": {
+        "B001": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B002": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B003": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B004": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B005": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B006": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B007": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B008": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B009": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B010": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B011": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B012": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B013": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B014": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B015": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B016": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B017": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B018": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B019": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B020": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B021": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B022": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B023": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B024": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B025": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B026": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B027": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B028": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B029": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B030": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B031": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B032": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B033": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B034": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B035": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B036": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B037": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B038": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B039": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B040": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B041": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B042": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B043": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B044": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B045": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B046": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B047": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B048": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B049": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B050": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B051": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B052": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B053": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B054": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B055": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B056": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B057": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B058": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B059": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B060": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B061": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B062": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B063": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B064": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B065": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B066": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B067": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B068": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B069": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B070": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B071": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B072": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B073": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B074": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B075": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B076": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B077": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B078": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B079": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B080": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B081": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B082": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B083": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B084": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B085": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B086": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B087": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B088": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B089": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B090": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B091": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B092": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B093": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B094": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B095": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B096": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B097": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B098": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B099": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B100": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B101": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B102": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B103": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B104": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B105": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B106": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B107": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B108": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B109": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B110": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B111": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B112": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B113": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B114": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B115": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B116": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B117": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B118": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B119": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B120": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B121": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B122": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B123": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B124": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B125": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B126": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B127": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B128": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B129": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B130": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B131": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B132": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B133": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B134": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B135": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B136": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B137": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B138": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B139": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B140": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B141": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B142": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B143": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B144": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B145": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B146": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B147": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B148": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B149": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B150": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B151": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B152": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B153": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B154": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B155": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B156": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B157": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B158": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B159": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B160": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B161": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B162": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B163": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B164": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B165": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B166": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B167": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B168": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B169": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B170": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B171": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B172": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B173": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B174": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B175": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B176": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B177": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B178": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B179": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B180": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B181": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B182": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B183": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B184": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B185": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B186": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B187": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B188": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B189": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B190": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B191": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B192": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B193": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B194": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B195": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B196": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B197": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B198": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B199": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B200": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B201": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B202": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B203": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B204": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B205": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B206": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B207": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B208": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B209": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B210": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B211": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B212": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B213": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B214": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B215": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B216": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B217": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B218": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B219": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B220": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B221": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B222": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B223": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B224": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B225": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B226": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B227": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B228": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B229": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B230": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B231": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B232": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B233": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B234": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B235": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B236": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B237": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B238": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B239": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B240": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B241": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B242": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B243": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B244": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B245": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B246": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B247": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B248": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B249": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B251": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B252": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B253": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B254": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B255": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B256": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B257": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B258": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B259": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B260": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B261": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B262": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B263": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B264": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B265": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B266": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B267": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B268": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B269": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B270": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B271": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B272": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B273": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B274": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B275": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B276": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B277": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B278": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B279": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B280": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B281": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B282": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B283": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B284": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B285": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B286": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B287": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B288": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B289": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B290": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B291": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B292": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B293": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B294": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B295": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B296": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B297": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B298": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B299": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B300": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B301": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B302": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B303": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B304": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B305": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B306": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B307": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B308": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B309": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B310": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B311": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B312": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B313": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B314": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B315": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B316": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B317": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B318": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B319": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B320": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B321": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B322": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B323": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B324": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B325": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B326": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B327": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B328": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B329": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B330": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B331": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B332": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B333": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B334": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B335": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B336": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B337": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B338": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B339": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B340": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B341": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B342": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B343": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B344": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B345": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B346": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B347": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B348": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B349": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B350": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B351": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B352": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B353": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B354": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B355": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B356": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B357": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B358": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B359": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B360": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B361": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B362": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B363": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B364": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B365": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B366": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B367": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B368": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B369": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B370": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B371": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B372": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B373": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B374": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B375": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B376": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B377": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B378": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B379": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B380": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B381": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B382": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B383": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B384": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B385": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B386": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B387": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B388": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B389": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B390": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B391": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B392": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B393": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B394": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B395": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B396": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B397": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B398": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B399": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B400": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B401": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B402": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B403": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B404": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B405": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B406": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B407": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B408": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B409": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B410": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B411": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B412": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B413": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B414": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B415": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B416": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B417": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B418": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B419": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B420": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B421": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B422": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B423": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B424": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B425": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B426": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B427": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B428": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B429": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B430": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B431": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B432": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B433": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B434": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B435": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B436": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B437": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B438": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B439": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B440": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B441": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B442": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/neon-prod-earthengine/assets/HSI_REFL/002": {
+        "B001": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B002": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B003": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B004": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B005": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B006": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B007": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B008": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B009": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B010": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B011": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B012": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B013": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B014": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B015": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B016": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B017": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B018": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B019": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B020": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B021": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B022": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B023": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B024": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B025": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B026": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B027": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B028": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B029": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B030": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B031": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B032": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B033": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B034": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B035": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B036": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B037": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B038": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B039": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B040": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B041": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B042": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B043": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B044": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B045": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B046": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B047": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B048": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B049": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B050": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B051": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B052": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B053": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B054": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B055": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B056": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B057": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B058": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B059": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B060": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B061": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B062": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B063": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B064": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B065": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B066": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B067": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B068": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B069": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B070": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B071": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B072": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B073": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B074": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B075": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B076": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B077": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B078": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B079": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B080": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B081": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B082": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B083": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B084": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B085": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B086": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B087": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B088": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B089": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B090": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B091": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B092": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B093": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B094": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B095": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B096": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B097": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B098": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B099": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B100": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B101": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B102": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B103": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B104": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B105": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B106": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B107": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B108": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B109": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B110": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B111": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B112": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B113": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B114": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B115": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B116": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B117": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B118": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B119": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B120": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B121": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B122": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B123": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B124": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B125": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B126": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B127": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B128": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B129": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B130": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B131": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B132": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B133": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B134": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B135": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B136": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B137": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B138": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B139": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B140": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B141": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B142": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B143": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B144": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B145": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B146": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B147": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B148": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B149": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B150": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B151": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B152": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B153": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B154": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B155": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B156": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B157": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B158": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B159": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B160": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B161": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B162": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B163": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B164": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B165": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B166": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B167": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B168": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B169": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B170": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B171": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B172": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B173": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B174": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B175": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B176": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B177": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B178": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B179": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B180": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B181": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B182": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B183": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B184": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B185": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B186": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B187": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B188": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B189": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B190": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B191": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B192": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B193": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B194": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B195": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B196": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B197": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B198": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B199": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B200": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B201": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B202": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B203": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B204": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B205": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B206": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B207": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B208": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B209": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B210": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B211": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B212": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B213": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B214": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B215": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B216": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B217": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B218": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B219": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B220": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B221": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B222": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B223": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B224": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B225": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B226": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B227": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B228": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B229": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B230": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B231": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B232": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B233": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B234": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B235": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B236": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B237": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B238": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B239": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B240": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B241": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B242": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B243": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B244": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B245": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B246": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B247": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B248": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B249": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B251": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B252": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B253": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B254": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B255": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B256": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B257": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B258": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B259": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B260": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B261": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B262": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B263": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B264": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B265": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B266": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B267": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B268": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B269": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B270": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B271": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B272": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B273": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B274": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B275": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B276": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B277": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B278": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B279": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B280": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B281": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B282": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B283": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B284": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B285": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B286": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B287": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B288": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B289": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B290": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B291": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B292": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B293": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B294": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B295": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B296": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B297": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B298": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B299": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B300": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B301": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B302": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B303": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B304": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B305": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B306": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B307": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B308": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B309": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B310": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B311": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B312": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B313": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B314": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B315": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B316": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B317": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B318": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B319": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B320": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B321": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B322": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B323": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B324": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B325": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B326": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B327": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B328": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B329": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B330": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B331": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B332": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B333": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B334": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B335": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B336": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B337": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B338": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B339": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B340": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B341": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B342": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B343": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B344": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B345": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B346": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B347": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B348": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B349": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B350": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B351": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B352": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B353": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B354": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B355": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B356": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B357": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B358": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B359": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B360": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B361": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B362": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B363": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B364": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B365": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B366": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B367": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B368": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B369": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B370": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B371": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B372": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B373": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B374": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B375": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B376": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B377": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B378": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B379": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B380": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B381": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B382": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B383": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B384": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B385": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B386": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B387": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B388": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B389": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B390": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B391": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B392": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B393": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B394": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B395": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B396": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B397": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B398": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B399": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B400": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B401": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B402": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B403": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B404": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B405": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B406": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B407": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B408": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B409": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B410": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B411": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B412": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B413": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B414": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B415": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B416": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B417": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B418": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B419": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B420": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B421": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B422": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B423": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B424": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B425": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B426": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B427": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B428": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B429": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B430": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B431": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B432": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B433": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B434": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B435": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B436": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B437": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B438": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B439": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B440": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B441": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B442": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/neon-prod-earthengine/assets/RGB/001": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
             "offset": 0.0,
             "scale": 1.0
         }
