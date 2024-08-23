@@ -5931,7 +5931,27 @@
             "scale": 1.0
         }
     },
+    "Estonia/Maamet/orthos/mono_low_flying": {
+        "mono": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "Estonia/Maamet/orthos/rgb": {
+        "B": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "G": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "R": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "Estonia/Maamet/orthos/rgb_low_flying": {
         "B": {
             "offset": 0.0,
             "scale": 1.0
@@ -36739,6 +36759,24 @@
             "scale": 1.0
         },
         "view_zenith_angle": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/VIIRS/002/VNP14A1": {
+        "FireMask": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "MaxFRP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "QA": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sample": {
             "offset": 0.0,
             "scale": 1.0
         }
