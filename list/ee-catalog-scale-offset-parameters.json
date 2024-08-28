@@ -19329,6 +19329,156 @@
             "scale": 1.0
         }
     },
+    "LARSE/GEDI/GRIDDEDVEG_002/V1/12KM": {
+        "countf": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "iqr": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "mean": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "meanbse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "median": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbits_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "p95": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sd": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shan": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_nni": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tracks_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LARSE/GEDI/GRIDDEDVEG_002/V1/1KM": {
+        "countf": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "iqr": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "mean": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "meanbse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "median": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbits_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "p95": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sd": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shan": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_nni": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tracks_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LARSE/GEDI/GRIDDEDVEG_002/V1/6KM": {
+        "countf": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "iqr": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "mean": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "meanbse": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "median": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "orbits_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "p95": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sd": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shan": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_nni": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tracks_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "Latvia/Maamet/orthos/cir": {
         "G": {
             "offset": 0.0,
