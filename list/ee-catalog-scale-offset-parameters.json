@@ -5069,6 +5069,12 @@
             "scale": 1.0
         }
     },
+    "EDF/MethaneSAT/MethaneAIR/L4area": {
+        "flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "EDF/MethaneSAT/MethaneAIR/methaneair-L4area-2021": {
         "flux": {
             "offset": 0.0,
