@@ -5069,6 +5069,24 @@
             "scale": 1.0
         }
     },
+    "EDF/MethaneSAT/MethaneAIR/L3concentration": {
+        "XCH4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "albedo": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "surface_pressure": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "terrain_height": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "EDF/MethaneSAT/MethaneAIR/L4area": {
         "flux": {
             "offset": 0.0,
@@ -26889,6 +26907,2324 @@
             "scale": 1.0
         },
         "utc_time": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NASA/EMIT/L2A/RFL": {
+        "AOD550": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "H2O": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "aggregate_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cirrus_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "cloud_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "dilated_cloud_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "elev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_100": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_101": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_102": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_103": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_104": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_105": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_106": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_107": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_108": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_109": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_110": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_111": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_112": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_113": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_114": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_115": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_116": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_117": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_118": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_119": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_120": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_121": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_122": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_123": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_124": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_125": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_126": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_127": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_128": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_129": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_130": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_131": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_132": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_133": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_134": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_135": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_136": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_137": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_138": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_139": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_140": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_141": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_142": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_143": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_144": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_145": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_146": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_147": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_148": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_149": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_150": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_151": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_152": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_153": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_154": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_155": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_156": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_157": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_158": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_159": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_160": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_161": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_162": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_163": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_164": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_165": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_166": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_167": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_168": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_169": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_17": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_170": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_171": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_172": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_173": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_174": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_175": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_176": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_177": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_178": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_179": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_18": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_180": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_181": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_182": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_183": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_184": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_185": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_186": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_187": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_188": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_189": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_19": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_190": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_191": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_192": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_193": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_194": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_195": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_196": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_197": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_198": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_199": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_200": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_201": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_202": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_203": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_204": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_205": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_206": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_207": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_208": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_209": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_21": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_210": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_211": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_212": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_213": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_214": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_215": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_216": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_217": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_218": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_219": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_22": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_220": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_221": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_222": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_223": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_224": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_225": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_226": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_227": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_228": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_229": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_23": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_230": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_231": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_232": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_233": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_234": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_235": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_236": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_237": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_238": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_239": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_24": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_240": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_241": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_242": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_243": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_244": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_245": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_246": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_247": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_248": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_249": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_251": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_252": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_253": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_254": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_255": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_256": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_257": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_258": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_259": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_26": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_260": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_261": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_262": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_263": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_264": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_265": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_266": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_267": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_268": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_269": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_27": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_270": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_271": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_272": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_273": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_274": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_275": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_276": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_277": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_278": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_279": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_28": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_280": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_281": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_282": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_283": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_284": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_29": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_31": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_32": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_33": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_34": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_35": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_36": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_37": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_38": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_39": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_40": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_41": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_42": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_43": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_44": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_45": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_46": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_47": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_48": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_49": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_50": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_51": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_52": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_53": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_54": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_55": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_56": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_57": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_58": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_59": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_60": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_61": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_62": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_63": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_64": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_65": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_66": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_67": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_68": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_69": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_70": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_71": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_72": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_73": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_74": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_75": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_76": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_77": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_78": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_79": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_80": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_81": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_82": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_83": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_84": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_85": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_86": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_87": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_88": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_89": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_90": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_91": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_92": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_93": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_94": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_95": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_96": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_97": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_98": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_99": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_0": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_100": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_101": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_102": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_103": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_104": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_105": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_106": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_107": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_108": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_109": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_110": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_111": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_112": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_113": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_114": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_115": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_116": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_117": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_118": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_119": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_12": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_120": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_121": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_122": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_123": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_124": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_125": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_126": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_127": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_128": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_129": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_13": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_130": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_131": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_132": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_133": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_134": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_135": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_136": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_137": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_138": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_139": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_14": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_140": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_141": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_142": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_143": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_144": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_145": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_146": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_147": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_148": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_149": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_15": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_150": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_151": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_152": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_153": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_154": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_155": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_156": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_157": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_158": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_159": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_16": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_160": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_161": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_162": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_163": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_164": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_165": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_166": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_167": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_168": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_169": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_17": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_170": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_171": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_172": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_173": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_174": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_175": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_176": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_177": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_178": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_179": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_18": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_180": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_181": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_182": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_183": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_184": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_185": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_186": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_187": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_188": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_189": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_19": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_190": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_191": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_192": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_193": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_194": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_195": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_196": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_197": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_198": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_199": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_20": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_200": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_201": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_202": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_203": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_204": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_205": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_206": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_207": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_208": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_209": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_21": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_210": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_211": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_212": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_213": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_214": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_215": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_216": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_217": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_218": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_219": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_22": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_220": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_221": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_222": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_223": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_224": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_225": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_226": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_227": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_228": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_229": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_23": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_230": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_231": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_232": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_233": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_234": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_235": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_236": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_237": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_238": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_239": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_24": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_240": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_241": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_242": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_243": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_244": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_245": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_246": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_247": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_248": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_249": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_25": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_250": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_251": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_252": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_253": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_254": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_255": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_256": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_257": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_258": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_259": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_26": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_260": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_261": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_262": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_263": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_264": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_265": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_266": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_267": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_268": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_269": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_27": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_270": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_271": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_272": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_273": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_274": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_275": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_276": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_277": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_278": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_279": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_28": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_280": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_281": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_282": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_283": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_284": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_29": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_3": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_30": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_31": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_32": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_33": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_34": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_35": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_36": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_37": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_38": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_39": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_40": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_41": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_42": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_43": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_44": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_45": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_46": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_47": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_48": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_49": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_5": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_50": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_51": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_52": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_53": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_54": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_55": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_56": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_57": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_58": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_59": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_6": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_60": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_61": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_62": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_63": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_64": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_65": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_66": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_67": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_68": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_69": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_7": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_70": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_71": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_72": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_73": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_74": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_75": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_76": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_77": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_78": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_79": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_80": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_81": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_82": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_83": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_84": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_85": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_86": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_87": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_88": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_89": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_9": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_90": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_91": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_92": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_93": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_94": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_95": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_96": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_97": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_98": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "reflectance_uncertainity_99": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "spacecraft_flag": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "water_flag": {
             "offset": 0.0,
             "scale": 1.0
         }
