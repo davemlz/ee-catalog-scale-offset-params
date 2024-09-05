@@ -46847,6 +46847,16 @@
             "scale": 1.0
         }
     },
+    "WRI/SBTN/naturalLands/v1": {
+        "classification": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "natural": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "WWF/HydroSHEDS/03CONDEM": {
         "b1": {
             "offset": 0.0,
