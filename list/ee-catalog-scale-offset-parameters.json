@@ -6401,6 +6401,20 @@
             "scale": 1.0
         }
     },
+    "GOOGLE/Research/open-buildings-temporal/v1": {
+        "building_fractional_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "building_height": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "building_presence": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "GRIDMET/DROUGHT": {
         "eddi14d": {
             "offset": 0.0,
