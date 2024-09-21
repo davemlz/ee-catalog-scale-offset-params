@@ -133,6 +133,12 @@
             "scale": 1.0
         }
     },
+    "BNETD/land_cover/v1": {
+        "classification": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "BNU/FGS/CCNL/v1": {
         "b1": {
             "offset": 0.0,
