@@ -14805,6 +14805,12 @@
             "scale": 1.0
         }
     },
+    "JRC/CEMS_GLOFAS/FloodHazard/v1": {
+        "depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/D5/EUCROPMAP/V1": {
         "classification": {
             "offset": 0.0,
