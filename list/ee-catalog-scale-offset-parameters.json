@@ -19385,6 +19385,60 @@
             "scale": 1.0
         }
     },
+    "LARSE/GEDI/GRIDDEDVEG_002/COUNTS/V1/12KM": {
+        "orbits_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_nni": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tracks_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LARSE/GEDI/GRIDDEDVEG_002/COUNTS/V1/1KM": {
+        "orbits_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_nni": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tracks_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "LARSE/GEDI/GRIDDEDVEG_002/COUNTS/V1/6KM": {
+        "orbits_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "shots_nni": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tracks_uniq": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "LARSE/GEDI/GRIDDEDVEG_002/V1/12KM": {
         "countf": {
             "offset": 0.0,
