@@ -40489,6 +40489,34 @@
             "scale": 1.0
         }
     },
+    "NOAA/CPC/Precipitation": {
+        "num_gauges": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "precipitation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "NOAA/CPC/Temperature": {
+        "nmax": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nmin": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tmax": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "tmin": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "NOAA/DMSP-OLS/CALIBRATED_LIGHTS_V4": {
         "avg_vis": {
             "offset": 0.0,
@@ -47583,6 +47611,48 @@
             "scale": 1.0
         },
         "spectral_distance_median_absolute_deviation": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/geoscience-aus-cat/assets/ga_ls8cls9c_gm_cyear_3": {
+        "bcdev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "count": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "edev": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nbart_blue": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nbart_green": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nbart_nir": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nbart_red": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nbart_swir_1": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "nbart_swir_2": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "sdev": {
             "offset": 0.0,
             "scale": 1.0
         }
