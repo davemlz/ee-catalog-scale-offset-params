@@ -43971,6 +43971,32 @@
             "scale": 1.0
         }
     },
+    "UCSB-CHG/CHIRTS/DAILY": {
+        "heat_index": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "maximum_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "minimum_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "relative_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "saturation_vapor_pressure": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "vapor_pressure_deficit": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "UK/EA/ENGLAND_1M_TERRAIN/2022": {
         "dsm_first": {
             "offset": 0.0,
