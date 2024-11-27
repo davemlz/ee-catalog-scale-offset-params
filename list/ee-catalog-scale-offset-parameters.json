@@ -47165,6 +47165,12 @@
             "scale": 1.0
         }
     },
+    "projects/forestdatapartnership/assets/palm/model_2024a": {
+        "probability": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "projects/geoscience-aus-cat/assets/NIDEM": {
         "nidem": {
             "offset": 0.0,
