@@ -47159,6 +47159,12 @@
             "scale": 1.0
         }
     },
+    "projects/forestdatapartnership/assets/cocoa/model_2024a": {
+        "probability": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "projects/forestdatapartnership/assets/community_palm/20240312": {
         "probability": {
             "offset": 0.0,
@@ -47173,6 +47179,340 @@
     },
     "projects/forestdatapartnership/assets/rubber/model_2024a": {
         "probability": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
+    "projects/gcp-public-data-weathernext/assets/59572747_4_0": {
+        "1000_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "1000_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "1000_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "1000_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "1000_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "1000_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "100_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "100_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "100_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "100_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "100_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "100_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "10m_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "10m_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "150_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "150_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "150_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "150_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "150_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "150_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "200_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "200_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "200_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "200_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "200_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "200_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "250_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "250_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "250_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "250_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "250_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "250_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "2m_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "300_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "300_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "300_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "300_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "300_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "300_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "400_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "400_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "400_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "400_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "400_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "400_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "500_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "500_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "500_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "500_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "500_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "500_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "50_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "50_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "50_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "50_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "50_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "50_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "600_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "600_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "600_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "600_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "600_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "600_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "700_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "700_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "700_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "700_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "700_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "700_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "850_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "850_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "850_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "850_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "850_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "850_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "925_geopotential": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "925_specific_humidity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "925_temperature": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "925_u_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "925_v_component_of_wind": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "925_vertical_velocity": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "mean_sea_level_pressure": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "total_precipitation_6hr": {
             "offset": 0.0,
             "scale": 1.0
         }
