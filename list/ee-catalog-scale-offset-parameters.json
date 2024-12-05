@@ -14823,6 +14823,12 @@
             "scale": 1.0
         }
     },
+    "JRC/GFC2020/V2": {
+        "Map": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "JRC/GFC2020_subtypes/V0": {
         "GFT": {
             "offset": 0.0,
