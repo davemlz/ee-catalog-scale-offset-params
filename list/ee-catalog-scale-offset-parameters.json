@@ -38266,6 +38266,14 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "B10": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "B11": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "B2": {
             "offset": 0.0,
             "scale": 1.0
@@ -38291,14 +38299,6 @@
             "scale": 1.0
         },
         "B9": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "Band10": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "Band11": {
             "offset": 0.0,
             "scale": 1.0
         },
