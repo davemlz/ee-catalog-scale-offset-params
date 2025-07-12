@@ -14850,7 +14850,7 @@
         }
     },
     "JRC/GFC2020_subtypes/V0": {
-        "GFT": {
+        "Map": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -15380,7 +15380,7 @@
         }
     },
     "LANDSAT/COMPOSITES/C02/T1_L2_32DAY_NBR": {
-        "NBRT": {
+        "NBR": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -15410,7 +15410,7 @@
         }
     },
     "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_NBR": {
-        "NBRT": {
+        "NBR": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -15440,7 +15440,7 @@
         }
     },
     "LANDSAT/COMPOSITES/C02/T1_L2_ANNUAL_NBR": {
-        "NBRT": {
+        "NBR": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -23877,62 +23877,62 @@
     },
     "MODIS/061/MOD21A1D": {
         "Emis_29": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_31": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_32": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "LST_1KM": {
             "offset": 0.0,
-            "scale": 0.02
+            "scale": 1.0
         },
         "QC": {
             "offset": 0.0,
             "scale": 1.0
         },
         "View_Angle": {
-            "offset": -65,
+            "offset": 0.0,
             "scale": 1.0
         },
         "View_Time": {
             "offset": 0.0,
-            "scale": 0.1
+            "scale": 1.0
         }
     },
     "MODIS/061/MOD21A1N": {
         "Emis_29": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_31": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_32": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "LST_1KM": {
             "offset": 0.0,
-            "scale": 0.02
+            "scale": 1.0
         },
         "QC": {
             "offset": 0.0,
             "scale": 1.0
         },
         "View_Angle": {
-            "offset": -65,
+            "offset": 0.0,
             "scale": 1.0
         },
         "View_Time": {
             "offset": 0.0,
-            "scale": 0.1
+            "scale": 1.0
         }
     },
     "MODIS/061/MOD21C1": {
@@ -25081,62 +25081,62 @@
     },
     "MODIS/061/MYD21A1D": {
         "Emis_29": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_31": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_32": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "LST_1KM": {
             "offset": 0.0,
-            "scale": 0.02
+            "scale": 1.0
         },
         "QC": {
             "offset": 0.0,
             "scale": 1.0
         },
         "View_Angle": {
-            "offset": -65,
+            "offset": 0.0,
             "scale": 1.0
         },
         "View_Time": {
             "offset": 0.0,
-            "scale": 0.1
+            "scale": 1.0
         }
     },
     "MODIS/061/MYD21A1N": {
         "Emis_29": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_31": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "Emis_32": {
-            "offset": 0.49,
-            "scale": 0.002
+            "offset": 0.0,
+            "scale": 1.0
         },
         "LST_1KM": {
             "offset": 0.0,
-            "scale": 0.02
+            "scale": 1.0
         },
         "QC": {
             "offset": 0.0,
             "scale": 1.0
         },
         "View_Angle": {
-            "offset": -65,
+            "offset": 0.0,
             "scale": 1.0
         },
         "View_Time": {
             "offset": 0.0,
-            "scale": 0.1
+            "scale": 1.0
         }
     },
     "MODIS/061/MYD21C1": {
@@ -40646,11 +40646,43 @@
         }
     },
     "NOAA/GFS0P25": {
+        "dew_point_temperature_2m_above_ground": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "downward_longwave_radiation_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "downward_shortwave_radiation_flux": {
             "offset": 0.0,
             "scale": 1.0
         },
+        "gust": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "haines_index": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "maximum_temperature_2m_above_ground": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "minimum_temperature_2m_above_ground": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "planetary_boundary_layer_height": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "precipitable_water_entire_atmosphere": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "precipitation_rate": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -40678,7 +40710,27 @@
             "offset": 0.0,
             "scale": 1.0
         },
+        "u_component_of_wind_planetary_boundary_layer": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "upward_longwave_radiation_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "upward_shortwave_radiation_flux": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "v_component_of_wind_10m_above_ground": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "v_component_of_wind_planetary_boundary_layer": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "ventilation_rate": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -44929,12 +44981,46 @@
             "scale": 1.0
         }
     },
+    "USDA/WRC/v0": {
+        "BP": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CFL": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "CRPS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Exposure": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FLEP4": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "FLEP8": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "RPS": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "WHP": {
+            "offset": 0.0,
+            "scale": 1.0
+        }
+    },
     "USFS/GTAC/LCMS/v2020-5": {
         "Change": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Fast-Loss": {
+        "Change_Raw_Probability_Fast_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45040,7 +45126,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Fast-Loss": {
+        "Change_Raw_Probability_Fast_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45048,7 +45134,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Slow-Loss": {
+        "Change_Raw_Probability_Slow_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45150,7 +45236,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Fast-Loss": {
+        "Change_Raw_Probability_Fast_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45158,7 +45244,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Slow-Loss": {
+        "Change_Raw_Probability_Slow_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45260,7 +45346,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Fast-Loss": {
+        "Change_Raw_Probability_Fast_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45268,7 +45354,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Slow-Loss": {
+        "Change_Raw_Probability_Slow_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45370,7 +45456,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Fast-Loss": {
+        "Change_Raw_Probability_Fast_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -45378,7 +45464,7 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "Change_Raw_Probability_Slow-Loss": {
+        "Change_Raw_Probability_Slow_Loss": {
             "offset": 0.0,
             "scale": 1.0
         },
@@ -48266,6 +48352,18 @@
         }
     },
     "projects/neon-prod-earthengine/assets/HSI_REFL/001": {
+        "Acquisition_Date": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Aerosol_Optical_Depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Aspect": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "B001": {
             "offset": 0.0,
             "scale": 1.0
@@ -49970,72 +50068,72 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "B427": {
+        "Cast_Shadow": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B428": {
+        "Dark_Dense_Vegetation_Classification": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B429": {
+        "Haze_Cloud_Water_Map": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B430": {
+        "Illumination_Factor": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B431": {
+        "Path_Length": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B432": {
+        "Sky_View_Factor": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B433": {
+        "Slope": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B434": {
+        "Smooth_Surface_Elevation": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B435": {
+        "Visibility_Index_Map": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B436": {
+        "Water_Vapor_Column": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B437": {
+        "Weather_Quality_Indicator": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B438": {
+        "to-sensor_Azimuth_Angle": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B439": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "B440": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "B441": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "B442": {
+        "to-sensor_Zenith_Angle": {
             "offset": 0.0,
             "scale": 1.0
         }
     },
     "projects/neon-prod-earthengine/assets/HSI_REFL/002": {
+        "Acquisition_Date": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Aerosol_Optical_Depth": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
+        "Aspect": {
+            "offset": 0.0,
+            "scale": 1.0
+        },
         "B001": {
             "offset": 0.0,
             "scale": 1.0
@@ -51740,67 +51838,55 @@
             "offset": 0.0,
             "scale": 1.0
         },
-        "B427": {
+        "Cast_Shadow": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B428": {
+        "Dark_Dense_Vegetation_Classification": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B429": {
+        "Haze_Cloud_Water_Map": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B430": {
+        "Illumination_Factor": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B431": {
+        "Path_Length": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B432": {
+        "Sky_View_Factor": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B433": {
+        "Slope": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B434": {
+        "Smooth_Surface_Elevation": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B435": {
+        "Visibility_Index_Map": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B436": {
+        "Water_Vapor_Column": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B437": {
+        "Weather_Quality_Indicator": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B438": {
+        "to-sensor_Azimuth_Angle": {
             "offset": 0.0,
             "scale": 1.0
         },
-        "B439": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "B440": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "B441": {
-            "offset": 0.0,
-            "scale": 1.0
-        },
-        "B442": {
+        "to-sensor_Zenith_Angle": {
             "offset": 0.0,
             "scale": 1.0
         }
@@ -51904,7 +51990,7 @@
         }
     },
     "projects/sat-io/open-datasets/us-drought-monitor": {
-        "b1": {
+        "DM": {
             "offset": 0.0,
             "scale": 1.0
         }
